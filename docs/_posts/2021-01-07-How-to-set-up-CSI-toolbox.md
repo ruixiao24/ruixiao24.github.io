@@ -5,9 +5,7 @@ date: 2021-01-07 14:57:00 -0000
 categories: WiFi
 ---
 
-I spent about one week to configure the Linux 802.11n CSI Tool on both my desktop and laptop. So it’s better for me to write it down in case I need to do that again.
-
-Site:https://dhalperi.github.io/linux-80211n-csitool/
+I spent about one week to configure the [Linux 802.11n CSI Tool](https://dhalperi.github.io/linux-80211n-csitool/) on both my desktop and laptop. So it’s better for me to write it down in case I need to do that again.
 
 ## Key points
 
@@ -24,7 +22,7 @@ Site:https://dhalperi.github.io/linux-80211n-csitool/
 
 ## Installation Steps
 
-1. Finish step 1,2,3,4 on https://dhalperi.github.io/linux-80211n-csitool/installation.html
+1. Finish step 1,2,3,4 on [Linux 802.11n CSI Tool](https://dhalperi.github.io/linux-80211n-csitool/) 
 
    ```bash
    # step 1
@@ -51,7 +49,7 @@ Site:https://dhalperi.github.io/linux-80211n-csitool/
 
 3. Install aircrack0ng_1.1-6_amd64.deb. *Aircrack-ng* is a complete suite of tools to assess WiFi network security.
 
-4. Follow the steps in https://github.com/dhalperi/linux-80211n-csitool-supplementary/tree/master/injection to set up injection mode.
+4. Follow the steps in [dhalperi/linux-80211n-csitool-supplementary/injection](https://github.com/dhalperi/linux-80211n-csitool-supplementary/tree/master/injection) to set up injection mode.
 
    ```bash
    # How to use
