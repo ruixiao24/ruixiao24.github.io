@@ -1,50 +1,91 @@
 ---
 layout: post
 title: "How to set up CSI Tool"
-date: 2021-01-27 14:57:00 -0000
+date: 2021-01-07 14:57:00 -0000
 categories: WiFi
 ---
 
-# How to Set Up CSI Tool
+I spent about one week to configure the Linux 802.11n CSI Tool on both my desktop and laptop. So it’s better for me to write it down in case I need to do that again.
 
-记录一下配置CSI Tool的过程
+Site:https://dhalperi.github.io/linux-80211n-csitool/
 
-## 安装环境
+## Key points
 
-- X201
+- The CSI Tool is expected to work on Linux operating systems that are based on an upstream Linux kernel version between 3.2 (e.g Ubuntu 12.04) and 4.2 (e.g. Ubuntu 14.04.4). So, do not install Ubuntu 14.04.6.
+- You may not be able to boot your laptop after installing the Intel 5300 NIC on your laptop (ThinkPad X201 for me). In that case, you need to flash the bios first. (Plug out the NIC before entering PE environment.)
 
-- Intel 5300网卡
+## Environment
 
-- Ubuntu 14.04 **（注意要安装14.04而不是14.04.6，因为Linux内核版本最高只支持4.2）**
+- ThinkPad X201
 
-## 安装步骤
+- Intel 5300 NIC
 
-1. 完成https://dhalperi.github.io/linux-80211n-csitool/installation.html官方指南的第1、2 步
+- Ubuntu 14.04
 
-2. 安装python numpy、matplotlib、opencv-python、scipy、sklearn、PIL库（下载所有想下的，后面完成安装后只能连接没有密码的网络）
+## Installation Steps
 
-3. 下载微云上两个deb文件，先安装libgcrypt再安装aircrack
-
-4. 完成https://dhalperi.github.io/linux-80211n-csitool/installation.html官方指南的第3、4 步
-
-5. 按linux-80211n-csitool-supplementary/injection下的readme文件安装injection模式，安装完成后按腾讯微云上的recordingCSI.txt文件设置发送端和接收端（接收端不需要执行第二行）。如果接受端能够接收到数据则安装成功。
-
-6. 发送端后面三个参数第一个为发送的包的总数，最后一个为发包的延时单位为微秒（现在为每10ms发一个包）
+1. Finish step 1,2,3,4 on https://dhalperi.github.io/linux-80211n-csitool/installation.html
 
    ```bash
-   sudo ./random_packets 1000000000 100 1 10000
+   # step 1
+   sudo apt-get install gcc make linux-headers-$(uname -r) git-core
+   
+   # step 2
+   CSITOOL_KERNEL_TAG=csitool-$(uname -r | cut -d . -f 1-2)
+   git clone https://github.com/dhalperi/linux-80211n-csitool.git
+   cd linux-80211n-csitool
+   git checkout ${CSITOOL_KERNEL_TAG}
+   
+   make -C /lib/modules/$(uname -r)/build M=$(pwd)/drivers/net/wireless/iwlwifi modules
+   # step 3
+   git clone https://github.com/dhalperi/linux-80211n-csitool-supplementary.git
+   for file in /lib/firmware/iwlwifi-5000-*.ucode; do sudo mv $file $file.orig; done
+   sudo cp linux-80211n-csitool-supplementary/firmware/iwlwifi-5000-2.ucode.sigcomm2010 /lib/firmware/
+   sudo ln -s iwlwifi-5000-2.ucode.sigcomm2010 /lib/firmware/iwlwifi-5000-2.ucode
+   
+   # step 4
+   make -C linux-80211n-csitool-supplementary/netlink
    ```
+
+2. Install libgcypt11_1.5.3-2ubuntu4_amd64.deb. *Libgcrypt* is a general purpose cryptographic library originally based on code from GnuPG.
+
+3. Install aircrack0ng_1.1-6_amd64.deb. *Aircrack-ng* is a complete suite of tools to assess WiFi network security.
+
+4. Follow the steps in https://github.com/dhalperi/linux-80211n-csitool-supplementary/tree/master/injection to set up injection mode.
+
+   ```bash
+   # How to use
+   sudo airmon-ng check kill
+   sudo service network-manager stop
+   
+   # receiver:
+   	./setup_monitor_csi.sh 64 HT20
+   	sudo ../netlink/log_to_file ~/Desktop/log.dat
+   
+   # transmitter:
+   	./setup_inject.sh 64 HT20
+   	# Then:
+   	echo 0x4101 | sudo tee `find /sys -name monitor_tx_rate`
+   	sudo ./random_packets 1 100 1
+   	# OR:
+   	echo 0x1c113 | sudo tee `sudo find /sys -name monitor_tx_rate`
+   	sudo ./random_packets 1000000000 100 1 10000
+   	# First Param: Total number of packets.
+   	# Last Param: Relay time (in ms)
+   ```
+
+5. If your can receive packets, it means installation success.
 
 6. 将微云上netlink文件夹下linux-80211n-csitool-supplementary/netlink里没有的.c文件拷贝到linux-80211n-csitool-supplementary/netlink下，覆盖makefile文件，重新make。然后按recordingCSI.txt重新测试接收端，如果接收到数据则安装成功。
 
-## 系统测试
+## System test
 
 下载微云上csi_project代码。
 
-1）  采集数据
+- 采集数据
 
 接收端使用sudo ../netlink/log_to_file > 文件名 命令采集数据
 
 将文件拷贝至csi_project下的dataset文件夹下
 
-2）  运行read_data.py文件可以将csi源数据解析成csi数据，运行train.py可以训练模型，运行rec.py可以进行测试（最好采集无人时的环境数据作为环境类）
+- 运行read_data.py文件可以将csi源数据解析成csi数据，运行train.py可以训练模型，运行rec.py可以进行测试（最好采集无人时的环境数据作为环境类）
