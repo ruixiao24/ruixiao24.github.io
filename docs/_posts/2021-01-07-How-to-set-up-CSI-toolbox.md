@@ -87,3 +87,7 @@ I spent about one week to configure the [Linux 802.11n CSI Tool](https://dhalper
 将文件拷贝至csi_project下的dataset文件夹下
 
 - 运行read_data.py文件可以将csi源数据解析成csi数据，运行train.py可以训练模型，运行rec.py可以进行测试（最好采集无人时的环境数据作为环境类）
+
+## Reference
+
+[1] Caichao’s blog: [https://blog.csdn.net/caichao08/article/details/53894510](https://blog.csdn.net/caichao08/article/details/53894510)
