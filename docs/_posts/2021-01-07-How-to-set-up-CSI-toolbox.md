@@ -14,11 +14,34 @@ I spent about one week to configure the [Linux 802.11n CSI Tool](https://dhalper
 
 ## Environment
 
-- ThinkPad X201
-
-- Intel 5300 NIC
-
+- ThinkPad X201 (or any Intel PC with PCIE socket)
+- Intel 5300 Wi-Fi NIC
 - Ubuntu 14.04
+
+## Connecting to GitHub with SSH
+
+Using the SSH protocol, you can connect and authenticate to remote servers and services. While cloning the CSI repository, I find it’s more stable to use SSH protocol instead of HTTPS.
+
+1. Generating a new SSH key
+
+   Paste the text below, substituting in your GitHub email address
+
+   ```bash
+   ssh-keygen -t ed25519 -C "your_email@example.com"
+   ```
+
+2. Adding your SSH key to the SSH-agent
+
+   Ensure the ssh-agent is running. You can use the "Auto-launching the ssh-agent" instructions in "[Working with SSH key passphrases](https://docs.github.com/en/free-pro-team@latest/articles/working-with-ssh-key-passphrases)", or start it manually:
+
+   ```bash
+   # start the ssh-agent in the background
+   $ eval `ssh-agent -s`
+   > Agent pid 59566
+   ```
+
+3. Add your SSH private key to the ssh-agent. If you created your key with a different name, or if you are adding an existing key that has a different name, replace *id_ed25519* in the command with the name of your private key file.
+4. [Add the SSH key to your GitHub account](https://docs.github.com/en/free-pro-team@latest/articles/adding-a-new-ssh-key-to-your-github-account).
 
 ## Installation Steps
 
