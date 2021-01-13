@@ -72,8 +72,17 @@ Using the SSH protocol, you can connect and authenticate to remote servers and s
 
 3. Install aircrack0ng_1.1-6_amd64.deb. *Aircrack-ng* is a complete suite of tools to assess WiFi network security.
 
-4. Follow the steps in [dhalperi/linux-80211n-csitool-supplementary/injection](https://github.com/dhalperi/linux-80211n-csitool-supplementary/tree/master/injection) to set up injection mode.
+4. Follow the steps in [dhalperi/linux-80211n-csitool-supplementary/injection](https://github.com/dhalperi/linux-80211n-csitool-supplementary/tree/master/injection) to set up injection mode:
 
+   - Install LORCON
+
+     ```bash
+     git clone https://github.com/dhalperi/lorcon-old.git
+     ```
+
+   - Compile and make LORCON
+
+5. Set up receiver/transmitter
    ```bash
    # How to use
    sudo airmon-ng check kill
@@ -97,20 +106,110 @@ Using the SSH protocol, you can connect and authenticate to remote servers and s
 
 5. If your can receive packets, it means installation success.
 
-6. 将微云上netlink文件夹下linux-80211n-csitool-supplementary/netlink里没有的.c文件拷贝到linux-80211n-csitool-supplementary/netlink下，覆盖makefile文件，重新make。然后按recordingCSI.txt重新测试接收端，如果接收到数据则安装成功。
+6. If it doesn’t work, use the `setup_monitor_csi.sh` in appendix.
 
 ## System test
 
-下载微云上csi_project代码。
+- Collect data
 
-- 采集数据
+  ```bash
+  # Receiver
+  sudo ../netlink/log_to_file > filename.dat
+  ```
 
-接收端使用sudo ../netlink/log_to_file > 文件名 命令采集数据
+## Appendix
 
-将文件拷贝至csi_project下的dataset文件夹下
+*setup_monitor_csi.sh*
 
-- 运行read_data.py文件可以将csi源数据解析成csi数据，运行train.py可以训练模型，运行rec.py可以进行测试（最好采集无人时的环境数据作为环境类）
+```bash
+#!/usr/bin/sudo /bin/bash
+rfkill unblock all
+service network-manager stop #restart
+SLEEP_TIME=2
+WLAN_INTERFACE=$1
+if [ "$#" -ne 3 ]; then
+    echo "Going to use default settings!"
+    chn=64
+    bw=HT20
+else
+    chn=$2
+    bw=$3
+fi
+echo "Bringing $WLAN_INTERFACE down....."
+ifconfig $WLAN_INTERFACE down
+while [ $? -ne 0 ]
+do
+    ifconfig $WLAN_INTERFACE down
+done
+sleep $SLEEP_TIME
+echo "Set $WLAN_INTERFACE into monitor mode....."
+iwconfig $WLAN_INTERFACE mode monitor
+while [ $? -ne 0 ]
+do
+    iwconfig $WLAN_INTERFACE mode monitor
+done
+sleep $SLEEP_TIME
+echo "Bringing $WLAN_INTERFACE up....."
+ifconfig $WLAN_INTERFACE up
+while [ $? -ne 0 ]
+do
+    ifconfig $WLAN_INTERFACE up
+done
+sleep $SLEEP_TIME
+echo "Set channel $chn $bw....."
+iw $WLAN_INTERFACE set channel $chn $bw
+
+```
+
+*setup_inject.sh*
+
+```bash
+#!/usr/bin/sudo /bin/bash
+service network-manager stop
+WLAN_INTERFACE=$1
+SLEEP_TIME=2
+modprobe iwlwifi debug=0x40000
+if [ "$#" -ne 3 ]; then
+    echo "Going to use default settings!"
+    chn=64
+    bw=HT20
+else
+    chn=$2
+    bw=$3
+fi
+sleep $SLEEP_TIME
+ifconfig $WLAN_INTERFACE 2>/dev/null 1>/dev/null
+while [ $? -ne 0 ]
+do
+    ifconfig $WLAN_INTERFACE 2>/dev/null 1>/dev/null
+done
+sleep $SLEEP_TIME
+echo "Add monitor mon0....."
+iw dev $WLAN_INTERFACE interface add mon0 type monitor
+sleep $SLEEP_TIME
+echo "Bringing $WLAN_INTERFACE down....."
+ifconfig $WLAN_INTERFACE down
+while [ $? -ne 0 ]
+do
+    ifconfig $WLAN_INTERFACE down
+done
+sleep $SLEEP_TIME
+echo "Bringing mon0 up....."
+ifconfig mon0 up
+while [ $? -ne 0 ]
+do
+    ifconfig mon0 up
+done
+sleep $SLEEP_TIME
+echo "Set channel $chn $bw....."
+iw mon0 set channel $chn $bw
+```
+
+
 
 ## Reference
 
 [1] Caichao’s blog: [https://blog.csdn.net/caichao08/article/details/53894510](https://blog.csdn.net/caichao08/article/details/53894510)
+
+[2] Linux 802.11n CSI tool Monitor模式: [https://blog.csdn.net/u014645508/article/details/82993718](https://blog.csdn.net/u014645508/article/details/82993718)
+
