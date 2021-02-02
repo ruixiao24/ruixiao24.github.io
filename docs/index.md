@@ -1,5 +1,6 @@
 ---
-layout: home
+layout: myhome
+title: Home
 ---
 
 # Bio
@@ -13,4 +14,3 @@ I'm Rui Xiao, a first year graduate student in Computer Science at Zhejiang Univ
    To appear in the proceedings of the 30th Usenix Security Symposium
    (**[Security 2021](https://www.usenix.org/conference/usenixsecurity21)**),
    Vancouver, B.C., Canada. 2021
-
