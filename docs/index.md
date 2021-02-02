@@ -1,13 +1,12 @@
 ---
 layout: home
-title: home
 ---
 
-## Bio
+# Bio
 
 I'm Rui Xiao, a first year graduate student in Computer Science at Zhejiang University. My research interests revolve around the security and privacy of cyber-physical systems.
 
-## Publication
+# Publication
 
 1. Soundarya Ramesh, Rui Xiao, Anindya Maiti, Jong Taek Lee, Ananda Kumar, Harini Ramprasad, Murtuza Jadliwala, and Jun Han,
    *"Acoustics to the Rescue: Physical Key Inference Attack Revisited",*
