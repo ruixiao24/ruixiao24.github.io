@@ -12,7 +12,7 @@ redirect_from:
 
 I'm a second year graduate student in Computer Science at Zhejiang University under the supervision of Prof. Jinsong Han. My research interests revolve around wireless sensing and cyber-physical security.
 
-I received my B.S. in Physics from Zhejiang University as well. Previously, I was an undergraduate research assistant in SENSG Lab, lead by [Dr. Jun Han](http://www.junhan.org/), at National University of Singapore. 
+Previously, I was an undergraduate research assistant in SENSG Lab, lead by [Dr. Jun Han](http://www.junhan.org/), at National University of Singapore. I received my B.S. in Physics at Zhejiang University as well. 
 
 # Publication
 
