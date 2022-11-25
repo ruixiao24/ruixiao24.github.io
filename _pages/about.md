@@ -10,7 +10,7 @@ redirect_from:
 
 # About me
 
-I'm a second year graduate student in Computer Science at Zhejiang University under the supervision of [Prof. Jinsong Han](https://person.zju.edu.cn/en/hanjinsong). My research interests revolve around wireless sensing and cyber-physical security.
+I'm a third year graduate student in Computer Science at Zhejiang University under the supervision of [Prof. Jinsong Han](https://person.zju.edu.cn/en/hanjinsong). My research interests revolve around wireless sensing and cyber-physical security.
 
 From 2020/1 to 2020/6, I was an undergraduate research assistant in SENSG Lab, led by [Dr. Jun Han](http://www.junhan.org/), at National University of Singapore. I received my B.S. in Physics at Zhejiang University in 2020. 
 
@@ -26,4 +26,5 @@ From 2020/1 to 2020/6, I was an undergraduate research assistant in SENSG Lab, l
     *Acceptance Rate: 17.9% (25 of 139)* [ [paper](https://ruixiao24.github.io/files/rui_onefi.pdf) ]
     
 1. Soundarya Ramesh, **Rui Xiao**, Anindya Maiti, Jong Taek Lee, Ananda Kumar, Harini Ramprasad, Murtuza Jadliwala, and Jun Han, *"Acoustics to the Rescue: Physical Key Inference Attack Revisited",* in Proceedings of the 30th USENIX Security Symposium 
-       (**[Security 2021](https://www.usenix.org/conference/usenixsecurity21)**), Vancouver, B.C., Canada. 2021 [ [paper](https://www.usenix.org/system/files/sec21fall-ramesh.pdf) ]
+       (**[Security 2021](https://www.usenix.org/conference/usenixsecurity21)**), Vancouver, B.C., Canada. 2021  
+    *Acceptance Rate: 18.7% (246 of 1316)* [ [paper](https://www.usenix.org/system/files/sec21fall-ramesh.pdf) ]
