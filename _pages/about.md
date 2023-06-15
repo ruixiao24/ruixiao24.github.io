@@ -16,6 +16,7 @@ From 2020/1 to 2020/6, I was an undergraduate research assistant in SENSG Lab, l
 
 # News
 
+- 06/2023. Our paper, “MagTracer: Detecting GPU Cryptojacking Attacks via Magnetic Leakage Signals” is conditionally accepted at **[MobiCom 2023](https://sigmobile.org/mobicom/2023/)**.
 - 11/2021. OneFi is selected as the best paper candidate. [5 out of 139 submissions]
 - 09/2021. Our paper, “Onefi: One-shot Recognition for Unseen Gesture via COTS WiFi” is accepted and will appear at **[SenSys 2021](https://sensys.acm.org/2021/)**.
 - 01/2021. Our paper, “Acoustics to the Rescue: Physical Key Inference Attack Revisited” is accepted and will appear at **[USENIX Security 2021](https://www.usenix.org/conference/usenixsecurity21)**.
