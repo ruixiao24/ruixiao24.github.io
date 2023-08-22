@@ -10,7 +10,7 @@ redirect_from:
 
 # About me
 
-I'm a fourth year PhD student in Computer Science at Zhejiang University under the supervision of [Prof. Jinsong Han](https://person.zju.edu.cn/en/hanjinsong). My research interests revolve around wireless sensing and cyber-physical security.
+I'm a fourth year PhD student in Computer Science at Zhejiang University under the supervision of [Prof. Jinsong Han](https://person.zju.edu.cn/en/hanjinsong). My research interests revolve around wireless sensing, visible light communication, and cyber-physical security.
 
 From 2020/1 to 2020/6, I was an undergraduate research assistant in SENSG Lab, led by [Dr. Jun Han](http://www.junhan.org/), at National University of Singapore. I received my B.S. in Physics with honors at Zhejiang University in 2020. 
 
