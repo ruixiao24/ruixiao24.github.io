@@ -29,4 +29,4 @@ From 2020/1 to 2020/6, I was an undergraduate research assistant in SENSG Lab, l
     *Acceptance Rate: 17.9% (25 of 139)* [[paper](https://ruixiao24.github.io/files/rui_onefi.pdf)] [[slides](https://ruixiao24.github.io/files/onefi-sensys21.pptx)] 
 1. Soundarya Ramesh, **Rui Xiao**, Anindya Maiti, Jong Taek Lee, Ananda Kumar, Harini Ramprasad, Murtuza Jadliwala, and Jun Han, *"Acoustics to the Rescue: Physical Key Inference Attack Revisited",* in Proceedings of the 30th USENIX Security Symposium 
        (**[Security 2021](https://www.usenix.org/conference/usenixsecurity21)**), Vancouver, B.C., Canada. 2021  
-    *Acceptance Rate: 18.7% (246 of 1316)* [[paper](https://www.usenix.org/system/files/sec21fall-ramesh.pdf)] [[slides](https://www.usenix.org/system/files/sec21_slides_lakshmanan.pdf)] 
+    *Acceptance Rate: 18.7% (246 of 1316)* [[paper](https://www.usenix.org/system/files/sec21fall-ramesh.pdf)] [[slides](https://www.usenix.org/system/files/sec21_slides_ramesh.pdf)] 
