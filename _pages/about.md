@@ -24,9 +24,9 @@ From 2020/1 to 2020/6, I was an undergraduate research assistant in SENSG Lab, l
 # Publication
 
 1. **Rui Xiao**, Tianyu Li, Soundarya Ramesh, Jun Han, and Jinsong Han, *"MagTracer: Detecting GPU Cryptojacking Attacks via Magnetic Leakage Signals"*, in Proceedings of the 29th International Conference on Mobile Computing and Networking (**[MobiCom 2023](https://sigmobile.org/mobicom/2023/)**), Madrid, Spain. 2023  
-    *Acceptance Rate: 24.4% (92 of 377)* [ [paper](https://ruixiao24.github.io/files/magtracer-mobicom23.pdf) ]
+    *Acceptance Rate: 24.4% (92 of 377)* [[paper](https://ruixiao24.github.io/files/magtracer-mobicom23.pdf)] [[slides](https://ruixiao24.github.io/files/MagTracer-mobicom23.pptx)]
 1. **Rui Xiao**, Jianwei Liu, Jinsong Han, and Kui Ren, *"OneFi: One-Shot Recognition for Unseen Gesture via COTS WiFi",* in Proceedings of the 19th ACM Conference on Embedded Networked Sensor Systems (**[SenSys 2021](https://sensys.acm.org/2021/)**), Coimbra, Portugal. 2021  
-    *Acceptance Rate: 17.9% (25 of 139)* [ [paper](https://ruixiao24.github.io/files/rui_onefi.pdf) ]
+    *Acceptance Rate: 17.9% (25 of 139)* [[paper](https://ruixiao24.github.io/files/rui_onefi.pdf)] [[slides](https://ruixiao24.github.io/files/onefi-sensys21.pptx)] 
 1. Soundarya Ramesh, **Rui Xiao**, Anindya Maiti, Jong Taek Lee, Ananda Kumar, Harini Ramprasad, Murtuza Jadliwala, and Jun Han, *"Acoustics to the Rescue: Physical Key Inference Attack Revisited",* in Proceedings of the 30th USENIX Security Symposium 
        (**[Security 2021](https://www.usenix.org/conference/usenixsecurity21)**), Vancouver, B.C., Canada. 2021  
-    *Acceptance Rate: 18.7% (246 of 1316)* [ [paper](https://www.usenix.org/system/files/sec21fall-ramesh.pdf) ]
+    *Acceptance Rate: 18.7% (246 of 1316)* [[paper](https://www.usenix.org/system/files/sec21fall-ramesh.pdf)] [[slides](https://ruixiao24.github.io/files/magtracer-mobicom23.pdf)] 
