@@ -21,7 +21,7 @@ From 2020/1 to 2020/6, I was an undergraduate research assistant in SENSG Lab, l
 - 01/2021. Our paper, “Acoustics to the Rescue: Physical Key Inference Attack Revisited” is accepted and will appear at **[USENIX Security 2021](https://www.usenix.org/conference/usenixsecurity21)**.
 
 # Publication
-1. Leqi Zhao, **Rui Xiao (co-first)**, Jianwei Liu, and Jinsong Han, *"One is Enough: Enabling One-shot Device-free Gesture Recognition with COTS WiFi"*, in Proceedings of the IEEE International Conference on Computer Communications (**[INFOCOM 2024](https://infocom2024.ieee-infocom.org/)**), Vancouver, Canada. 2024 
+1. Leqi Zhao, **Rui Xiao (co-first)**, Jianwei Liu, and Jinsong Han, *"One is Enough: Enabling One-shot Device-free Gesture Recognition with COTS WiFi"*, in Proceedings of the IEEE International Conference on Computer Communications (**[INFOCOM 2024](https://infocom2024.ieee-infocom.org/)**), Vancouver, Canada. 2024 *(Conditionally Accepted)*
 1. **Rui Xiao**, Tianyu Li, Soundarya Ramesh, Jun Han, and Jinsong Han, *"MagTracer: Detecting GPU Cryptojacking Attacks via Magnetic Leakage Signals"*, in Proceedings of the 29th International Conference on Mobile Computing and Networking (**[MobiCom 2023](https://sigmobile.org/mobicom/2023/)**), Madrid, Spain. 2023  
     *Acceptance Rate: 24.4% (92 of 377)* [[paper](https://ruixiao24.github.io/files/magtracer-mobicom23.pdf)] [[slides](https://ruixiao24.github.io/files/MagTracer-mobicom23.pptx)]
 1. **Rui Xiao**, Jianwei Liu, Jinsong Han, and Kui Ren, *"OneFi: One-Shot Recognition for Unseen Gesture via COTS WiFi",* in Proceedings of the 19th ACM Conference on Embedded Networked Sensor Systems (**[SenSys 2021](https://sensys.acm.org/2021/)**), Coimbra, Portugal. 2021  
