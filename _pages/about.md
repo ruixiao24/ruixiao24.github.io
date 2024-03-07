@@ -15,7 +15,7 @@ I'm a fourth year PhD student in Computer Science at Zhejiang University under t
 From 2020/1 to 2020/6, I was an undergraduate research assistant in SENSG Lab, led by [Dr. Jun Han](http://www.junhan.org/), at National University of Singapore. I received my B.S. in Physics with honors at Zhejiang University in 2020. 
 
 # News
-- 03/2024. *WinkLink* is accepted at **[MobiSys 2024](https://sigmobile.org/mobisys/2024/)**.
+- 03/2024. One paper on optical camera communication is accepted and will apear at **[MobiSys 2024](https://sigmobile.org/mobisys/2024/)**.
 - 06/2023. One paper is conditionally accepted at **[MobiCom 2023](https://sigmobile.org/mobicom/2023/)**.
 - 11/2021. OneFi is selected as the best paper candidate. [5 out of 139 submissions]
 - 09/2021. Our paper, “Onefi: One-shot Recognition for Unseen Gesture via COTS WiFi” is accepted and will appear at **[SenSys 2021](https://sensys.acm.org/2021/)**.
