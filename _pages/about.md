@@ -15,12 +15,14 @@ I'm a fourth year PhD student in Computer Science at Zhejiang University under t
 From 2020/1 to 2020/6, I was an undergraduate research assistant in SENSG Lab, led by [Dr. Jun Han](http://www.junhan.org/), at National University of Singapore. I received my B.S. in Physics with honors at Zhejiang University in 2020. 
 
 # News
+- 03/2024. *WinkLink* is accepted at **[MobiSys 2024](https://sigmobile.org/mobisys/2024/)**.
 - 06/2023. One paper is conditionally accepted at **[MobiCom 2023](https://sigmobile.org/mobicom/2023/)**.
 - 11/2021. OneFi is selected as the best paper candidate. [5 out of 139 submissions]
 - 09/2021. Our paper, “Onefi: One-shot Recognition for Unseen Gesture via COTS WiFi” is accepted and will appear at **[SenSys 2021](https://sensys.acm.org/2021/)**.
 - 01/2021. Our paper, “Acoustics to the Rescue: Physical Key Inference Attack Revisited” is accepted and will appear at **[USENIX Security 2021](https://www.usenix.org/conference/usenixsecurity21)**.
 
 # Publication
+1. **Rui Xiao**, Leqi Zhao, Feng Qian, Lei Yang, and Jinsong Han, *"Practical Optical Camera Communication Behind Unseen and Complex Backgrounds"*, in Proceedings of the 22nd ACM International Conference on Mobile Systems, Applications, and Services (**[MobiSys 2024](https://sigmobile.org/mobisys/2024/)**), Tokyo, Japan. 2024  
 1. Leqi Zhao, **Rui Xiao (co-first)**, Jianwei Liu, and Jinsong Han, *"One is Enough: Enabling One-shot Device-free Gesture Recognition with COTS WiFi"*, in Proceedings of the IEEE International Conference on Computer Communications (**[INFOCOM 2024](https://infocom2024.ieee-infocom.org/)**), Vancouver, Canada. 2024  
 1. **Rui Xiao**, Tianyu Li, Soundarya Ramesh, Jun Han, and Jinsong Han, *"MagTracer: Detecting GPU Cryptojacking Attacks via Magnetic Leakage Signals"*, in Proceedings of the 29th International Conference on Mobile Computing and Networking (**[MobiCom 2023](https://sigmobile.org/mobicom/2023/)**), Madrid, Spain. 2023  
     *Acceptance Rate: 24.4% (92 of 377)* [[paper](https://ruixiao24.github.io/files/magtracer-mobicom23.pdf)] [[slides](https://ruixiao24.github.io/files/MagTracer-mobicom23.pptx)] [[ACM News](https://cacm.acm.org/news/278052-magnetic-sensors-pinpoint-gpu-cryptojacking-attacks/fulltext)]
