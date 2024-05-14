@@ -10,7 +10,8 @@ redirect_from:
 
 # About me
 
-I'm a fourth year PhD student in Computer Science at Zhejiang University under the supervision of [Prof. Jinsong Han](https://person.zju.edu.cn/en/hanjinsong). I also work closely with [Prof. Jun Han](http://www.junhan.org/) from KAIST.  My research interests are broad, encompassing visible light communication [_MobiSys'24_], wireless sensing [_INFOCOM'24, SenSys'21_], and cyber-physical security [_MobiCom'23, USENIX Security'21_]. I received my B.S. in Physics with honors at Zhejiang University in 2020.
+I'm a fourth year PhD student in Computer Science at Zhejiang University under the supervision of [Prof. Jinsong Han](https://person.zju.edu.cn/en/hanjinsong). I also work closely with [Prof. Jun Han](http://www.junhan.org/) from KAIST.  
+My research interests are broad, encompassing visible light communication [_MobiSys'24_], wireless sensing [_INFOCOM'24, SenSys'21_], and cyber-physical security [_MobiCom'23, USENIX Security'21_]. I received my B.S. in Physics with honors at Zhejiang University in 2020.
 
 # News
 - 03/2024. Our paper on optical camera communication is accepted at **[MobiSys 2024](https://sigmobile.org/mobisys/2024/)**.
