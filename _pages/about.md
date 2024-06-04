@@ -23,7 +23,7 @@ My research interests are broad, encompassing wireless sensing, visible light co
 
 # Publication
 1. **Rui Xiao**, Leqi Zhao, Feng Qian, Lei Yang, and Jinsong Han, *"Practical Optical Camera Communication Behind Unseen and Complex Backgrounds"*, in Proceedings of the 22nd ACM International Conference on Mobile Systems, Applications, and Services (**[MobiSys 2024](https://sigmobile.org/mobisys/2024/)**), Tokyo, Japan. 2024 <span style="color:red"> **(To appear)**</span>  
-    *Acceptance Rate: 16.3% (43 of 263)* [[code](https://github.com/ruixiao24/winklink-mobisys2024)]  
+    *Acceptance Rate: 16.3% (43 of 263)* [[paper](https://ruixiao24.github.io/files/winklink-mobisys24.pdf)] [[code](https://github.com/ruixiao24/winklink-mobisys2024)]  
 1. Leqi Zhao, **Rui Xiao (co-first)**, Jianwei Liu, and Jinsong Han, *"One is Enough: Enabling One-shot Device-free Gesture Recognition with COTS WiFi"*, in Proceedings of the IEEE International Conference on Computer Communications (**[INFOCOM 2024](https://infocom2024.ieee-infocom.org/)**), Vancouver, Canada. 2024  
     *Acceptance Rate: 19.6% (256 of 1307)* [[paper](https://ruixiao24.github.io/files/onesense-infocom24.pdf)] [[slides](https://ruixiao24.github.io/files/OneSense.pdf)]  
 1. **Rui Xiao**, Tianyu Li, Soundarya Ramesh, Jun Han, and Jinsong Han, *"MagTracer: Detecting GPU Cryptojacking Attacks via Magnetic Leakage Signals"*, in Proceedings of the 29th International Conference on Mobile Computing and Networking (**[MobiCom 2023](https://sigmobile.org/mobicom/2023/)**), Madrid, Spain. 2023  
