@@ -22,14 +22,19 @@ My research interests lie at the intersection of ***security*** and ***mobile/wi
 - 01/2021. Our paper, “Acoustics to the Rescue: Physical Key Inference Attack Revisited” is accepted and will appear at **[USENIX Security 2021](https://www.usenix.org/conference/usenixsecurity21)**.
 
 # Publication
-1. **Rui Xiao**, Leqi Zhao, Feng Qian, Lei Yang, and Jinsong Han, *"Practical Optical Camera Communication Behind Unseen and Complex Backgrounds"*, in Proceedings of the 22nd ACM International Conference on Mobile Systems, Applications, and Services (**[MobiSys 2024](https://sigmobile.org/mobisys/2024/)**), Tokyo, Japan. 2024   
+1. **[MobiSys 2024](https://sigmobile.org/mobisys/2024/)** __Practical Optical Camera Communication Behind Unseen and Complex Backgrounds__  
+    **Rui Xiao**, Leqi Zhao, Feng Qian, Lei Yang, and Jinsong Han  
     *Acceptance Rate: 16.3% (43 of 263)* [[paper](https://ruixiao24.github.io/files/winklink-mobisys24.pdf)] [[slides](https://ruixiao24.github.io/files/winklink-mobisys-final.pdf)] [[code](https://github.com/ruixiao24/winklink-mobisys2024)]  
-1. Leqi Zhao, **Rui Xiao (co-first)**, Jianwei Liu, and Jinsong Han, *"One is Enough: Enabling One-shot Device-free Gesture Recognition with COTS WiFi"*, in Proceedings of the IEEE International Conference on Computer Communications (**[INFOCOM 2024](https://infocom2024.ieee-infocom.org/)**), Vancouver, Canada. 2024  
+1. **[INFOCOM 2024](https://infocom2024.ieee-infocom.org/)** __One is Enough: Enabling One-shot Device-free Gesture Recognition with COTS WiFi__  
+    Leqi Zhao, **Rui Xiao (co-first)**, Jianwei Liu, and Jinsong Han  
     *Acceptance Rate: 19.6% (256 of 1307)* [[paper](https://ruixiao24.github.io/files/onesense-infocom24.pdf)] [[slides](https://ruixiao24.github.io/files/OneSense.pdf)]  
-1. **Rui Xiao**, Tianyu Li, Soundarya Ramesh, Jun Han, and Jinsong Han, *"MagTracer: Detecting GPU Cryptojacking Attacks via Magnetic Leakage Signals"*, in Proceedings of the 29th International Conference on Mobile Computing and Networking (**[MobiCom 2023](https://sigmobile.org/mobicom/2023/)**), Madrid, Spain. 2023  
-    *Acceptance Rate: 24.4% (92 of 377)* [[paper](https://ruixiao24.github.io/files/magtracer-mobicom23.pdf)] [[slides](https://ruixiao24.github.io/files/MagTracer-mobicom23.pptx)] [[ACM News](https://cacm.acm.org/news/magnetic-sensors-pinpoint-gpu-cryptojacking-attacks)]
-1. **Rui Xiao**, Jianwei Liu, Jinsong Han, and Kui Ren, *"OneFi: One-Shot Recognition for Unseen Gesture via COTS WiFi",* in Proceedings of the 19th ACM Conference on Embedded Networked Sensor Systems (**[SenSys 2021](https://sensys.acm.org/2021/)**), Coimbra, Portugal. 2021  
+1. **[MobiCom 2023](https://sigmobile.org/mobicom/2023/)** __MagTracer: Detecting GPU Cryptojacking Attacks via Magnetic Leakage Signals__  
+    **Rui Xiao**, Tianyu Li, Soundarya Ramesh, Jun Han, and Jinsong Han  
+    *Acceptance Rate: 24.4% (92 of 377)* [[paper](https://ruixiao24.github.io/files/magtracer-mobicom23.pdf)] [[slides](https://ruixiao24.github.io/files/MagTracer-mobicom23.pptx)] [[ACM News](https://cacm.acm.org/news/magnetic-sensors-pinpoint-gpu-cryptojacking-attacks)]  
+1. **[SenSys 2021](https://sensys.acm.org/2021/)** __OneFi: One-Shot Recognition for Unseen Gesture via COTS WiFi__  
+    **Rui Xiao**, Jianwei Liu, Jinsong Han, and Kui Ren  
     *Acceptance Rate: 17.9% (25 of 139)* [[paper](https://ruixiao24.github.io/files/rui_onefi.pdf)] [[slides](https://ruixiao24.github.io/files/onefi-sensys21.pptx)] [[code](https://github.com/ruixiao24/onefi)]  
-    <span style="color:red"> ***BEST PAPER AWARD CANDIDATE**</span>
-1. Soundarya Ramesh, **Rui Xiao**, Anindya Maiti, Jong Taek Lee, Ananda Kumar, Harini Ramprasad, Murtuza Jadliwala, and Jun Han, *"Acoustics to the Rescue: Physical Key Inference Attack Revisited",* in Proceedings of the 30th USENIX Security Symposium (**[Security 2021](https://www.usenix.org/conference/usenixsecurity21)**), Vancouver, B.C., Canada. 2021  
+    <span style="color:red"> ***BEST PAPER AWARD CANDIDATE**</span>  
+1. **[Security 2021](https://www.usenix.org/conference/usenixsecurity21)** __Acoustics to the Rescue: Physical Key Inference Attack Revisited__  
+    Soundarya Ramesh, **Rui Xiao**, Anindya Maiti, Jong Taek Lee, Ananda Kumar, Harini Ramprasad, Murtuza Jadliwala, and Jun Han  
     *Acceptance Rate: 18.7% (246 of 1316)* [[paper](https://www.usenix.org/system/files/sec21fall-ramesh.pdf)] [[slides](https://www.usenix.org/system/files/sec21_slides_ramesh.pdf)] 
