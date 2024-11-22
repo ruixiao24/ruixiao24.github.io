@@ -22,7 +22,7 @@ My research interests lie at the intersection of ***security*** and ***mobile/wi
 - 01/2021. Our paper, “Acoustics to the Rescue: Physical Key Inference Attack Revisited” is accepted and will appear at **[USENIX Security 2021](https://www.usenix.org/conference/usenixsecurity21)**.
 
 # Publication
-1. [**[NDSS]'25](https://www.ndss-symposium.org/ndss2025/)**] Lend Me Your Beam: Privacy Implications of Beamforming Feedback Packets in WiFi  
+1. [**[NDSS'25](https://www.ndss-symposium.org/ndss2025/)**] Lend Me Your Beam: Privacy Implications of Beamforming Feedback Packets in WiFi  
    **Rui Xiao**, Xiankai Chen, YingHui He, Jun Han, and Jinsong Han  
    Network and Distributed System Security Symposium  
    *Conditionally Accepted*  
