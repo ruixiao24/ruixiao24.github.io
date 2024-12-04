@@ -25,7 +25,7 @@ My research interests lie at the intersection of ***security*** and ***mobile/wi
 # Publication
 1. [**[NDSS'25](https://www.ndss-symposium.org/ndss2025/)**] Lend Me Your Beam: Privacy Implications of Beamforming Feedback in WiFi  
    **Rui Xiao**, Xiankai Chen, Yinghui He, Jun Han, and Jinsong Han  
-   Network and Distributed System Security Symposium
+   Network and Distributed System Security Symposium  
    [[paper](https://ruixiao24.github.io/files/leakybeam-ndss25.pdf)]  
 1. [**[MobiSys'24](https://sigmobile.org/mobisys/2024/)**] Practical Optical Camera Communication Behind Unseen and Complex Backgrounds  
     **Rui Xiao**, Leqi Zhao, Feng Qian, Lei Yang, and Jinsong Han  
