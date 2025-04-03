@@ -48,3 +48,7 @@ My research interests lie at the intersection of ***security*** and ***mobile/wi
     Soundarya Ramesh, **Rui Xiao**, Anindya Maiti, Jong Taek Lee, Ananda Kumar, Harini Ramprasad, Murtuza Jadliwala, and Jun Han  
     USENIX Security Symposium  
     *Acceptance Rate: 18.7% (246 of 1316)* [[paper](https://www.usenix.org/system/files/sec21fall-ramesh.pdf)] [[slides](https://www.usenix.org/system/files/sec21_slides_ramesh.pdf)] 
+
+# Professional Service
+- Program Committee for Artifact Evaluation: MobiCom 2025, MobiSys 2025
+- Shadow Program Committee: ACM CoNEXT 2025
