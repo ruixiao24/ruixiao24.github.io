@@ -51,6 +51,6 @@ My research interests lie at the intersection of ***security*** and ***mobile/wi
     *Acceptance Rate: 18.7% (246 of 1316)* [[paper](https://www.usenix.org/system/files/sec21fall-ramesh.pdf)] [[slides](https://www.usenix.org/system/files/sec21_slides_ramesh.pdf)] 
 
 # Professional Service
-- Program Committee for Artifact Evaluation: ACM MobiCom 2025, ACM MobiSys 2025
+- Program Committee for Artifact Evaluation: ACM MobiCom 2025, ACM MobiSys 2025, ACM CCS 2025
 - Shadow Program Committee: ACM CoNEXT 2025
 - Reviewer: IEEE S&P (Oakland) 2025, ACM MobiCom 2025, ACM UbiComp 2024, ACM SenSys 2022, IEEE ICNP 2021-2024
