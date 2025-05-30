@@ -15,7 +15,7 @@ I'm a fifth-year PhD student in Computer Science at Zhejiang University under th
 My research interests lie at the intersection of ***security*** and ***mobile/wireless/sensing systems***. Currently, my work spans applications in wireless sensing, visible light communication, and cyber-physical security, with a particular focus on the innovative analysis of physical signals to drive advancements in these areas. I have published papers in several top conferences, including ACM MobiCom, MobiSys, SenSys, NDSS, and USENIX Security. I received my B.S. in Physics with honors at Zhejiang University in 2020.
 
 # News
-- 05/2025. I was selected as ACM MobiSys Rising Star 2025 for research on wireless sensing and security.
+- 05/2025. I was selected as **[ACM MobiSys Rising Star 2025](https://www.sigmobile.org/mobisys/2025/)** for research on wireless sensing and security.
 - 11/2024. Our paper on WiFi beamforming feedback security is accepted at **[NDSS 2025](https://www.ndss-symposium.org/ndss2025/)**.
 - 03/2024. Our paper on optical camera communication is accepted at **[MobiSys 2024](https://sigmobile.org/mobisys/2024/)**.
 - 06/2023. One paper is conditionally accepted at **[MobiCom 2023](https://sigmobile.org/mobicom/2023/)**.
