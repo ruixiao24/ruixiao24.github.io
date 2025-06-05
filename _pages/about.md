@@ -10,7 +10,7 @@ redirect_from:
 
 # About me
 
-I'm an incoming Assistant Professor in the [School of Computing and Artificial Intelligence}(https://scai.sufe.edu.cn/) at [SUFE](https://english.sufe.edu.cn/). 
+I'm an incoming Assistant Professor in the [School of Computing and Artificial Intelligence](https://scai.sufe.edu.cn/) at [SUFE](https://english.sufe.edu.cn/). 
 My research interests lie at the intersection of ***security*** and ***mobile/wireless/sensing systems***. Currently, my work spans applications in wireless sensing, visible light communication, and cyber-physical security, with a particular focus on the innovative analysis of physical signals to drive advancements in these areas. I have published papers in several top conferences, including ACM MobiCom, MobiSys, SenSys, NDSS, and USENIX Security. 
 
 I obtained my Ph.D in Computer Science at Zhejiang University in 2025 under the supervision of [Prof. Jinsong Han](https://person.zju.edu.cn/en/hanjinsong). I also worked closely with [Prof. Jun Han](http://www.junhan.org/) from KAIST. I received my B.S. in Physics with honors at Zhejiang University in 2020.
