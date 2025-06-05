@@ -10,9 +10,10 @@ redirect_from:
 
 # About me
 
-I'm a fifth-year PhD student in Computer Science at Zhejiang University under the supervision of [Prof. Jinsong Han](https://person.zju.edu.cn/en/hanjinsong). I also work closely with [Prof. Jun Han](http://www.junhan.org/) from KAIST.
+I'm an incoming Assistant Professor in the [School of Computing and Artificial Intelligence}(https://scai.sufe.edu.cn/) at [SUFE](https://english.sufe.edu.cn/). 
+My research interests lie at the intersection of ***security*** and ***mobile/wireless/sensing systems***. Currently, my work spans applications in wireless sensing, visible light communication, and cyber-physical security, with a particular focus on the innovative analysis of physical signals to drive advancements in these areas. I have published papers in several top conferences, including ACM MobiCom, MobiSys, SenSys, NDSS, and USENIX Security. 
 
-My research interests lie at the intersection of ***security*** and ***mobile/wireless/sensing systems***. Currently, my work spans applications in wireless sensing, visible light communication, and cyber-physical security, with a particular focus on the innovative analysis of physical signals to drive advancements in these areas. I have published papers in several top conferences, including ACM MobiCom, MobiSys, SenSys, NDSS, and USENIX Security. I received my B.S. in Physics with honors at Zhejiang University in 2020.
+I obtained my Ph.D in Computer Science at Zhejiang University in 2025 under the supervision of [Prof. Jinsong Han](https://person.zju.edu.cn/en/hanjinsong). I also worked closely with [Prof. Jun Han](http://www.junhan.org/) from KAIST. I received my B.S. in Physics with honors at Zhejiang University in 2020.
 
 # News
 - 05/2025. I was selected as **[ACM MobiSys Rising Star 2025](https://www.sigmobile.org/mobisys/2025/)** for research on wireless sensing and security.
