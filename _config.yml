@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Rui Xiao's Homepage"
 title_separator          : "-"
 name                     : &name "Rui Xiao"
-description              : &description "PhD Student at Zhejiang University"
+description              : &description "Incoming Assistant Professor at SUFE"
 url                      : "https://ruixiao24.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ruixiao24.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Rui Xiao"
   avatar           : "rui_photo.JPG"
-  bio              : "PhD student at Zhejiang University"
+  bio              : "Incoming Assistant Professor at SUFE"
   location         : "Hangzhou, China"
   employer         :
   pubmed           :
