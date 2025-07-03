@@ -14,7 +14,7 @@ I am an incoming Assistant Professor in the [School of Computing and Artificial 
 My research interests lie at the intersection of ***security*** and ***mobile/wireless/sensing systems***, with a particular focus on the innovative analysis of physical context to enable trustworthy interaction with the physical world in Artificial Internet-of-Things (AIoT) and Cyber-Physical Systems (CPS).
 I have published papers in several top conferences, including ACM MobiCom, MobiSys, SenSys, NDSS, and USENIX Security. 
 
-I obtained my Ph.D in Computer Science at Zhejiang University in 2025 under the supervision of [Prof. Jinsong Han](https://person.zju.edu.cn/en/hanjinsong). I also worked closely with [Prof. Jun Han](http://www.junhan.org/) from KAIST. I received my B.S. in Physics with honors at Zhejiang University in 2020.
+I obtained my Ph.D in Computer Science at Zhejiang University in 2025, supervised by [Prof. Jinsong Han](https://person.zju.edu.cn/en/hanjinsong). I also worked closely with [Prof. Jun Han](http://www.junhan.org/) from KAIST. I received my B.S. in Physics with honors at Zhejiang University in 2020.
 
 # News
 - 07/2025. Our paper on GPU electromagnetic side-channel is accepted at **[NDSS 2026](https://www.ndss-symposium.org/ndss2026/)**.
