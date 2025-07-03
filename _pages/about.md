@@ -17,6 +17,7 @@ I have published papers in several top conferences, including ACM MobiCom, MobiS
 I obtained my Ph.D in Computer Science at Zhejiang University in 2025 under the supervision of [Prof. Jinsong Han](https://person.zju.edu.cn/en/hanjinsong). I also worked closely with [Prof. Jun Han](http://www.junhan.org/) from KAIST. I received my B.S. in Physics with honors at Zhejiang University in 2020.
 
 # News
+- 07/2025. Our paper on GPU electromagnetic side-channel is accepted at **[NDSS 2026](https://www.ndss-symposium.org/ndss2026/)**.
 - 05/2025. I was selected as **[ACM MobiSys Rising Star 2025](https://www.sigmobile.org/mobisys/2025/)** for research on wireless sensing and security.
 - 11/2024. Our paper on WiFi beamforming feedback security is accepted at **[NDSS 2025](https://www.ndss-symposium.org/ndss2025/)**.
 - 03/2024. Our paper on optical camera communication is accepted at **[MobiSys 2024](https://sigmobile.org/mobisys/2024/)**.
@@ -26,6 +27,11 @@ I obtained my Ph.D in Computer Science at Zhejiang University in 2025 under the 
 - 01/2021. Our paper, “Acoustics to the Rescue: Physical Key Inference Attack Revisited” is accepted and will appear at **[USENIX Security 2021](https://www.usenix.org/conference/usenixsecurity21)**.
 
 # Publication
+1. [**[NDSS'26](https://www.ndss-symposium.org/ndss2026/)**] Peering Inside the Black-Box: Long-Range and
+Scalable Model Architecture Snooping via GPU
+Electromagnetic Side-Channel  
+   **Rui Xiao**, Sibo Feng, Soundarya Ramesh, Jun Han, and Jinsong Han  
+   Network and Distributed System Security Symposium  
 1. [**[NDSS'25](https://www.ndss-symposium.org/ndss2025/)**] Lend Me Your Beam: Privacy Implications of Beamforming Feedback in WiFi  
    **Rui Xiao**, Xiankai Chen, Yinghui He, Jun Han, and Jinsong Han  
    Network and Distributed System Security Symposium  
