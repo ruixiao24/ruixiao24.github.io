@@ -10,7 +10,7 @@ redirect_from:
 
 # About me
 
-I am an incoming Assistant Professor in the [School of Computing and Artificial Intelligence](https://scai.sufe.edu.cn/) at [Shanghai University of Finance and Economics](https://english.sufe.edu.cn/). 
+I am an Assistant Professor in the [School of Computing and Artificial Intelligence](https://scai.sufe.edu.cn/) at [Shanghai University of Finance and Economics](https://english.sufe.edu.cn/). 
 My research interests lie at the intersection of ***security*** and ***mobile/wireless/sensing systems***, with a particular focus on the innovative analysis of physical context to enable trustworthy interaction with the physical world in Artificial Internet-of-Things (AIoT) and Cyber-Physical Systems (CPS).
 I have published papers in several top conferences, including ACM MobiCom, MobiSys, SenSys, NDSS, and USENIX Security. 
 
