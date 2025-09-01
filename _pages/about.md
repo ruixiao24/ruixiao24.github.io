@@ -16,7 +16,7 @@ I have published papers in several top conferences, including ACM MobiCom, MobiS
 
 I obtained my Ph.D in Computer Science at Zhejiang University in 2025, advised by [Prof. Jinsong Han](https://person.zju.edu.cn/en/hanjinsong). I also worked closely with [Prof. Jun Han](http://www.junhan.org/) from KAIST. I received my B.S. in Physics with honors at Zhejiang University in 2020.
 
-<span style="color:red">***To prospective students:***</span>  
+<u><span style="color:red">***To prospective students:***</span></u>  
 I am hiring new graduate students and undergraduate research assistants. I am looking for motivated and passionate students to work on exciting research projects! Please contact me if you are interested.  
 如果你有志于参与世界领先的科研工作（本科/硕士），欢迎加入我们！
 
