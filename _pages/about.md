@@ -18,7 +18,7 @@ I obtained my Ph.D in Computer Science at Zhejiang University in 2025, advised b
 
 <span style="color:red; text-decoration: underline;"><strong><em>To prospective students:</em></strong></span>  
 I am hiring new graduate students and undergraduate research assistants. I am looking for motivated and passionate students to work on exciting research projects! Please contact me if you are interested.  
-如果你有志于参与世界领先的科研工作（本科/硕士），欢迎加入我们！
+如果你想参与世界一流的科研工作（本科/硕士），欢迎加入我们！
 
 # News
 - 07/2025. Our paper on GPU electromagnetic side-channel is accepted at **[NDSS 2026](https://www.ndss-symposium.org/ndss2026/)**.
