@@ -61,23 +61,20 @@ I am hiring new graduate students (M.S./Ph.D. students) and undergraduate resear
     USENIX Security Symposium  
     *Acceptance Rate: 18.7% (246 of 1316)* [[paper](https://www.usenix.org/system/files/sec21fall-ramesh.pdf)] [[slides](https://www.usenix.org/system/files/sec21_slides_ramesh.pdf)] 
 
-# Hornors and Awards
+# Honors and Awards
 - ACM MobiSys 2025 Rising Star
 - ACM SenSys 2021 Best Paper Candidate
 
 # Professional Service
-**Technical Program Committee:**  
-<ul style="list-style: none; margin: 0; padding: 0;">
-  <li style="text-indent: -0.6em;">ACM MobiSys 2026</li>
-  <li style="text-indent: -0.6em;">ACM MobiCom 2025, ACM MobiSys 2025, ACM CCS 2025 (Artifact Evaluation)</li>
-  <li style="text-indent: -0.6em;">ACM CoNEXT 2025 (Shadow)</li>
-</ul>
-
+**Technical Program Committee**  
+- ACM MobiSys 2026
+- ACM MobiCom 2025, ACM MobiSys 2025, ACM CCS 2025 (Artifact Evaluation)
+- ACM CoNEXT 2025 (Shadow)
 
 **Journal Reviewer**  
-&nbsp;&nbsp;•  IEEE Transactions on Mobile Computing  
-&nbsp;&nbsp;•  IEEE Journal on Selected Areas in Communications  
-&nbsp;&nbsp;•  ACM Transactions on Internet of Things  
+- IEEE Transactions on Mobile Computing  
+- IEEE Journal on Selected Areas in Communications  
+- ACM Transactions on Internet of Things  
  
 **Conference Reviewer**  
-&nbsp;&nbsp;•  IEEE S&P (Oakland) 2025, ACM MobiCom 2025, ACM UIST 2025, ACM UbiComp 2024, ACM SenSys 2022, IEEE ICNP 2021-2024
+- IEEE S&P (Oakland) 2025, ACM MobiCom 2025, ACM UIST 2025, ACM UbiComp 2024, ACM SenSys 2022, IEEE ICNP 2021-2024
