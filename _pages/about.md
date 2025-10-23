@@ -61,6 +61,17 @@ I am hiring new graduate students (M.S./Ph.D. students) and undergraduate resear
     *Acceptance Rate: 18.7% (246 of 1316)* [[paper](https://www.usenix.org/system/files/sec21fall-ramesh.pdf)] [[slides](https://www.usenix.org/system/files/sec21_slides_ramesh.pdf)] 
 
 # Professional Service
-- Program Committee for Artifact Evaluation: ACM MobiCom 2025, ACM MobiSys 2025, ACM CCS 2025
-- Shadow Program Committee: ACM CoNEXT 2025
-- Reviewer: IEEE S&P (Oakland) 2025, ACM MobiCom 2025, ACM UbiComp 2024, ACM SenSys 2022, IEEE ICNP 2021-2024
+**Technical Program Committee**
+- ACM MobiSys 2026
+- ACM MobiCom 2025 AE
+- ACM MobiSys 2025 AE
+- ACM CCS 2025 AE
+- ACM CoNEXT 2025 (Shadow)
+
+**Journal Reviewer**
+- IEEE Transactions on Mobile Computing
+- IEEE Journal on Selected Areas in Communications
+- ACM Transactions on Internet of Things
+
+**External Conference Reviewer**
+- IEEE S&P (Oakland) 2025, ACM MobiCom 2025, ACM UbiComp 2024, ACM SenSys 2022, IEEE ICNP 2021-2024
