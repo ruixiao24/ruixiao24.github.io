@@ -64,9 +64,7 @@ I am hiring new graduate students (M.S./Ph.D. students) and undergraduate resear
 # Professional Service
 **Technical Program Committee:**  
 - ACM MobiSys 2026
-- ACM MobiCom 2025 AE
-- ACM MobiSys 2025 AE
-- ACM CCS 2025 AE
+- ACM MobiCom 2025, ACM MobiSys 2025, ACM CCS 2025 (Artifact Evaluation)
 - ACM CoNEXT 2025 (Shadow)
 
 **Journal Reviewer**
