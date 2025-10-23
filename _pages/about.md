@@ -32,7 +32,6 @@ I am hiring new graduate students (M.S./Ph.D. students) and undergraduate resear
 - 01/2021. Our paper, “Acoustics to the Rescue: Physical Key Inference Attack Revisited” is accepted and will appear at **[USENIX Security 2021](https://www.usenix.org/conference/usenixsecurity21)**.
 
 # Publication
-We publish Top Conference Papers in _security_ (e.g., NDSS, USENIX Security) and _mobile computing_ (e.g.,, ACM MobiCom, MobiSys, SenSys).
 1. [**[NDSS'26](https://www.ndss-symposium.org/ndss2026/)**] Peering Inside the Black-Box: Long-Range and Scalable Model Architecture Snooping via GPU Electromagnetic Side-Channel <span style="color:red"><strong><em>(To Appear)</em></strong></span>  
    **Rui Xiao**, Sibo Feng, Soundarya Ramesh, Jun Han, and Jinsong Han  
    Network and Distributed System Security Symposium  
@@ -63,8 +62,6 @@ We publish Top Conference Papers in _security_ (e.g., NDSS, USENIX Security) and
     *Acceptance Rate: 18.7% (246 of 1316)* [[paper](https://www.usenix.org/system/files/sec21fall-ramesh.pdf)] [[slides](https://www.usenix.org/system/files/sec21_slides_ramesh.pdf)] 
 
 # Professional Service
-I actively contribute to the academic community through the Technical Program Committee and review services across leading venues.
-
 **Technical Program Committee:**  
 - ACM MobiSys 2026
 - ACM MobiCom 2025 AE
@@ -76,6 +73,6 @@ I actively contribute to the academic community through the Technical Program Co
 - IEEE Transactions on Mobile Computing
 - IEEE Journal on Selected Areas in Communications
 - ACM Transactions on Internet of Things
-
+ 
 **External Conference Reviewer**
 - IEEE S&P (Oakland) 2025, ACM MobiCom 2025, ACM UbiComp 2024, ACM SenSys 2022, IEEE ICNP 2021-2024
