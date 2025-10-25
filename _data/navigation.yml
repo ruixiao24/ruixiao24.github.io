@@ -2,8 +2,12 @@
 main:
   - title: "About Me"
     url: /#about-me
+  - title: "News"
+    url: /#news
   - title: "Publications"
-    url: /#publication
+    url: /#publications
+  - title: "Honors & Awards"
+    url: /#honors-and-awards
   - title: "Services"
     url: /#professional-services
 
