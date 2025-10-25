@@ -179,10 +179,11 @@
 
   a {
     display: block;
-    margin: 0 1rem;
+    margin: 0 1.25rem;
     padding: 0.5rem 0;
     color: $masthead-link-color;
     text-decoration: none;
+    font-size: 0.9375em;
 
     &:hover {
       color: $masthead-link-color-hover;
