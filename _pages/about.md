@@ -35,7 +35,7 @@ I am hiring new graduate students (M.S./Ph.D. students) and undergraduate resear
 1. [**[NDSS'26](https://www.ndss-symposium.org/ndss2026/)**] Peering Inside the Black-Box: Long-Range and Scalable Model Architecture Snooping via GPU Electromagnetic Side-Channel <span style="color:red"><strong><em>(To Appear)</em></strong></span>  
    **Rui Xiao**, Sibo Feng, Soundarya Ramesh, Jun Han, and Jinsong Han  
    Network and Distributed System Security Symposium  
-1. [**[NDSS'25](https://www.ndss-symposium.org/ndss2025/)**] Lend Me Your Beam: Privacy Implications of Beamforming Feedback in WiFi  
+1. [**[NDSS'25](https://www.ndss-symposium.org/ndss2025/)**] Lend Me Your Beam: Privacy Implications of Plaintext Beamforming Feedback in WiFi  
    **Rui Xiao**, Xiankai Chen, Yinghui He, Jun Han, and Jinsong Han  
    Network and Distributed System Security Symposium  
    *Acceptance Rate: 16.1% (211 of 1311)* [[paper](https://ruixiao24.github.io/files/leakybeam-ndss25.pdf)] [[slides](https://ruixiao24.github.io/files/leakybeam-ndss-slides.pdf)]
