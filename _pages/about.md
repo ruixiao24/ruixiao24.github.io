@@ -43,10 +43,6 @@ I am hiring new graduate students (M.S./Ph.D. students) and undergraduate resear
     **Rui Xiao**, Leqi Zhao, Feng Qian, Lei Yang, and Jinsong Han  
     ACM International Conference on Mobile Systems, Applications, and Services  
     *Acceptance Rate: 16.3% (43 of 263)* [[paper](https://ruixiao24.github.io/files/winklink-mobisys24.pdf)] [[slides](https://ruixiao24.github.io/files/winklink-mobisys-final.pdf)] [[code](https://github.com/ruixiao24/winklink-mobisys2024)]  
-1. [**[INFOCOM'24](https://infocom2024.ieee-infocom.org/)**] One is Enough: Enabling One-shot Device-free Gesture Recognition with COTS WiFi  
-    Leqi Zhao, **Rui Xiao (co-first)**, Jianwei Liu, and Jinsong Han  
-    IEEE International Conference on Computer Communications  
-    *Acceptance Rate: 19.6% (256 of 1307)* [[paper](https://ruixiao24.github.io/files/onesense-infocom24.pdf)] [[slides](https://ruixiao24.github.io/files/OneSense.pdf)]  
 1. [**[MobiCom'23](https://sigmobile.org/mobicom/2023/)**] MagTracer: Detecting GPU Cryptojacking Attacks via Magnetic Leakage Signals  
     **Rui Xiao**, Tianyu Li, Soundarya Ramesh, Jun Han, and Jinsong Han  
     ACM International Conference On Mobile Computing And Networking  
