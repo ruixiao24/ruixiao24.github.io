@@ -31,7 +31,7 @@ I am hiring new graduate students (M.S./Ph.D. students) and undergraduate resear
 - 09/2021. Our paper, “Onefi: One-shot Recognition for Unseen Gesture via COTS WiFi” is accepted and will appear at **[SenSys 2021](https://sensys.acm.org/2021/)**.
 - 01/2021. Our paper, “Acoustics to the Rescue: Physical Key Inference Attack Revisited” is accepted and will appear at **[USENIX Security 2021](https://www.usenix.org/conference/usenixsecurity21)**.
 
-# Publications
+# Selected Publications
 1. [**[NDSS'26](https://www.ndss-symposium.org/ndss2026/)**] Peering Inside the Black-Box: Long-Range and Scalable Model Architecture Snooping via GPU Electromagnetic Side-Channel <span style="color:red"><strong><em>(To Appear)</em></strong></span>  
    **Rui Xiao**, Sibo Feng, Soundarya Ramesh, Jun Han, and Jinsong Han  
    Network and Distributed System Security Symposium  
