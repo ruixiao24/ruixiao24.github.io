@@ -1,10 +1,11 @@
 ---
 title: "Publications"
 permalink: /publications/
-author_profile: true
+author_profile: false
 classes: publications-page
 ---
 
+### 2026
 1. [**[NDSS'26](https://www.ndss-symposium.org/ndss2026/)**] Peering Inside the Black-Box: Long-Range and Scalable Model Architecture Snooping via GPU Electromagnetic Side-Channel <span style="color:red"><strong><em>(To Appear)</em></strong></span>  
    **Rui Xiao**, Sibo Feng, Soundarya Ramesh, Jun Han, and Jinsong Han  
    Network and Distributed System Security Symposium
@@ -14,10 +15,17 @@ classes: publications-page
 1. [**[INFOCOM'26](https://infocom2026.ieee-infocom.org/)**] EchoFence: Non-Intrusive Forgery Detection in Video Conferencing via Ultrasonic Sensing  
    Leqi Zhao, Luxin Shi, Jianwei Liu, **Rui Xiao (corresponding)**, and Jinsong Han  
    IEEE International Conference on Computer Communications  
+
+### 2025
 1. [**[NDSS'25](https://www.ndss-symposium.org/ndss2025/)**] Lend Me Your Beam: Privacy Implications of Plaintext Beamforming Feedback in WiFi  
    **Rui Xiao**, Xiankai Chen, Yinghui He, Jun Han, and Jinsong Han  
    Network and Distributed System Security Symposium  
    *Acceptance Rate: 16.1% (211 of 1311)* [[paper](https://ruixiao24.github.io/files/leakybeam-ndss25.pdf)] [[slides](https://ruixiao24.github.io/files/leakybeam-ndss-slides.pdf)]
+1. [**[MobiSys'25](https://sigmobile.org/mobisys/2025/)**] Exploiting and Securing WiFi for Pervasive Human Sensing  
+   **Rui Xiao**  
+   ACM International Conference on Mobile Systems, Applications, and Services (Rising Star Forum)  
+
+### 2024
 1. [**[MobiSys'24](https://sigmobile.org/mobisys/2024/)**] Practical Optical Camera Communication Behind Unseen and Complex Backgrounds  
     **Rui Xiao**, Leqi Zhao, Feng Qian, Lei Yang, and Jinsong Han  
     ACM International Conference on Mobile Systems, Applications, and Services  
@@ -26,6 +34,8 @@ classes: publications-page
     Leqi Zhao, **Rui Xiao (co-first)**, Jianwei Liu, and Jinsong Han  
     IEEE International Conference on Computer Communications  
     *Acceptance Rate: 19.6% (256 of 1307)* [[paper](https://ruixiao24.github.io/files/onesense-infocom24.pdf)] [[slides](https://ruixiao24.github.io/files/OneSense.pdf)]  
+
+### 2023 and Before
 1. [**[MobiCom'23](https://sigmobile.org/mobicom/2023/)**] MagTracer: Detecting GPU Cryptojacking Attacks via Magnetic Leakage Signals  
     **Rui Xiao**, Tianyu Li, Soundarya Ramesh, Jun Han, and Jinsong Han  
     ACM International Conference On Mobile Computing And Networking  
