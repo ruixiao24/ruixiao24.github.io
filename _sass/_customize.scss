@@ -8,6 +8,11 @@
   font-size: 0.8em; /* tweak as desired */
 }
 
+.publications-page h3 {
+  margin-top: 1.2em; /* reduce gap above year headings */
+  margin-bottom: 0.6em;
+}
+
 .publications-page .archive__item-title {
   font-family: $global-font-family; /* matches About’s font */
 }
