@@ -1,7 +1,7 @@
 ---
 title: "Publications"
 permalink: /publications/
-author_profile: true
+author_profile: false
 ---
 
 1. [**[NDSS'26](https://www.ndss-symposium.org/ndss2026/)**] Peering Inside the Black-Box: Long-Range and Scalable Model Architecture Snooping via GPU Electromagnetic Side-Channel <span style="color:red"><strong><em>(To Appear)</em></strong></span>  
