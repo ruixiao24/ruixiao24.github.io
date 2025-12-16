@@ -7,7 +7,13 @@ author_profile: true
 
 1. [**[NDSS'26](https://www.ndss-symposium.org/ndss2026/)**] Peering Inside the Black-Box: Long-Range and Scalable Model Architecture Snooping via GPU Electromagnetic Side-Channel <span style="color:red"><strong><em>(To Appear)</em></strong></span>  
    **Rui Xiao**, Sibo Feng, Soundarya Ramesh, Jun Han, and Jinsong Han  
-   Network and Distributed System Security Symposium  
+   Network and Distributed System Security Symposium
+1. [**[INFOCOM'26](https://infocom2026.ieee-infocom.org/)**] Turning GPU into an FM Radio: A Practical Data Exfiltration Framework from Air-gapped Systems <span style="color:red"><strong><em>(To Appear)</em></strong></span>  
+   **Rui Xiao**, Sibo Feng, and Jinsong Han  
+   IEEE International Conference on Computer Communications
+1. [**[INFOCOM'26](https://infocom2026.ieee-infocom.org/)**] EchoFence: Non-Intrusive Forgery Detection in Video Conferencing via Ultrasonic Sensing <span style="color:red"><strong><em>(To Appear)</em></strong></span>  
+   Leqi Zhao, Luxin Shi, Jianwei Liu, **Rui Xiao (corresponding)**, and Jinsong Han  
+   IEEE International Conference on Computer Communications  
 1. [**[NDSS'25](https://www.ndss-symposium.org/ndss2025/)**] Lend Me Your Beam: Privacy Implications of Plaintext Beamforming Feedback in WiFi  
    **Rui Xiao**, Xiankai Chen, Yinghui He, Jun Han, and Jinsong Han  
    Network and Distributed System Security Symposium  
@@ -33,7 +39,8 @@ author_profile: true
     Soundarya Ramesh, **Rui Xiao**, Anindya Maiti, Jong Taek Lee, Ananda Kumar, Harini Ramprasad, Murtuza Jadliwala, and Jun Han  
     USENIX Security Symposium  
     *Acceptance Rate: 18.7% (246 of 1316)* [[paper](https://www.usenix.org/system/files/sec21fall-ramesh.pdf)] [[slides](https://www.usenix.org/system/files/sec21_slides_ramesh.pdf)]
-   
+
+<!--
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
@@ -43,3 +50,4 @@ author_profile: true
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
+-->
