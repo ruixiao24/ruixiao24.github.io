@@ -7,13 +7,16 @@ classes: publications-page
 ### 2026
 1. [**[NDSS'26](https://www.ndss-symposium.org/ndss2026/)**] Peering Inside the Black-Box: Long-Range and Scalable Model Architecture Snooping via GPU Electromagnetic Side-Channel <span style="color:red"><strong><em>(To Appear)</em></strong></span>  
    **Rui Xiao**, Sibo Feng, Soundarya Ramesh, Jun Han, and Jinsong Han  
-   Network and Distributed System Security Symposium
+   Network and Distributed System Security Symposium  
+   *Acceptance Rate: To appear* [[paper](https://ruixiao24.github.io/files/ndss26-modelspy.pdf)] [[code](https://zenodo.org/records/17080118)]  
 1. [**[INFOCOM'26](https://infocom2026.ieee-infocom.org/)**] Turning GPU into an FM Radio: A Practical Data Exfiltration Framework from Air-gapped Systems  
    **Rui Xiao**, Sibo Feng, and Jinsong Han  
-   IEEE International Conference on Computer Communications
+   IEEE International Conference on Computer Communications  
+   *Acceptance Rate: 18.9% (329 of 1740)* [[paper](https://ruixiao24.github.io/files/magwhisper-infocom26.pdf)]  
 1. [**[INFOCOM'26](https://infocom2026.ieee-infocom.org/)**] EchoFence: Non-Intrusive Forgery Detection in Video Conferencing via Ultrasonic Sensing  
    Leqi Zhao, Luxin Shi, Jianwei Liu, **Rui Xiao (corresponding)**, and Jinsong Han  
    IEEE International Conference on Computer Communications  
+   *Acceptance Rate: 18.9% (329 of 1740)* [[paper](https://ruixiao24.github.io/files/echofense-infocom26.pdf)]  
 
 ### 2025
 1. [**[NDSS'25](https://www.ndss-symposium.org/ndss2025/)**] Lend Me Your Beam: Privacy Implications of Plaintext Beamforming Feedback in WiFi  
