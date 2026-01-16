@@ -46,7 +46,7 @@ I am hiring new graduate students (M.S./Ph.D. students) and undergraduate resear
     *Acceptance Rate: 16.3% (43 of 263)* [[paper](https://ruixiao24.github.io/files/winklink-mobisys24.pdf)] [[slides](https://ruixiao24.github.io/files/winklink-mobisys-final.pdf)] [[code](https://github.com/ruixiao24/winklink-mobisys2024)]  
 1. [**[MobiCom'23](https://sigmobile.org/mobicom/2023/)**] MagTracer: Detecting GPU Cryptojacking Attacks via Magnetic Leakage Signals  
     **Rui Xiao**, Tianyu Li, Soundarya Ramesh, Jun Han, and Jinsong Han  
-    ACM International Conference On Mobile Computing And Networking  
+    ACM International Conference on Mobile Computing and Networking  
     *Acceptance Rate: 24.4% (92 of 377)* [[paper](https://ruixiao24.github.io/files/magtracer-mobicom23.pdf)] [[slides](https://ruixiao24.github.io/files/MagTracer-mobicom23.pptx)] [[ACM News](https://cacm.acm.org/news/magnetic-sensors-pinpoint-gpu-cryptojacking-attacks)]  
 1. [**[SenSys'21](https://sensys.acm.org/2021/)**] OneFi: One-Shot Recognition for Unseen Gesture via COTS WiFi  
     **Rui Xiao**, Jianwei Liu, Jinsong Han, and Kui Ren  
