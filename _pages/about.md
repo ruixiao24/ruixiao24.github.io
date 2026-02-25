@@ -37,7 +37,7 @@ I am hiring new graduate students (M.S./Ph.D. students) and undergraduate resear
    **Rui Xiao**, Sibo Feng, Soundarya Ramesh, Jun Han, and Jinsong Han  
    Network and Distributed System Security Symposium  
    *Acceptance Rate: 17.9% (265 of 1481)* [[paper](https://ruixiao24.github.io/files/ndss26-modelspy.pdf)] [[code](https://zenodo.org/records/17080118)]  
-   <span style="color:red"> ***BEST PAPER AWARD**</span>  
+   🏆<span style="color:red"> **BEST PAPER AWARD**</span>  
 1. [**[NDSS'25](https://www.ndss-symposium.org/ndss2025/)**] Lend Me Your Beam: Privacy Implications of Plaintext Beamforming Feedback in WiFi  
    **Rui Xiao**, Xiankai Chen, Yinghui He, Jun Han, and Jinsong Han  
    Network and Distributed System Security Symposium  
@@ -54,7 +54,7 @@ I am hiring new graduate students (M.S./Ph.D. students) and undergraduate resear
     **Rui Xiao**, Jianwei Liu, Jinsong Han, and Kui Ren  
     ACM Conference on Embedded Networked Sensor Systems  
     *Acceptance Rate: 17.9% (25 of 139)* [[paper](https://ruixiao24.github.io/files/rui_onefi.pdf)] [[slides](https://ruixiao24.github.io/files/onefi-sensys21.pptx)] [[code](https://github.com/ruixiao24/onefi)]  
-    <span style="color:red"> ***BEST PAPER AWARD CANDIDATE**</span>  
+    🏆<span style="color:red"> **BEST PAPER AWARD CANDIDATE**</span>  
 1. [**[USENIX Security'21](https://www.usenix.org/conference/usenixsecurity21)**] Acoustics to the Rescue: Physical Key Inference Attack Revisited  
     Soundarya Ramesh, **Rui Xiao**, Anindya Maiti, Jong Taek Lee, Ananda Kumar, Harini Ramprasad, Murtuza Jadliwala, and Jun Han  
     USENIX Security Symposium  
