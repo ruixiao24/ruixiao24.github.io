@@ -33,7 +33,7 @@ I am hiring new graduate students (M.S./Ph.D. students) and undergraduate resear
 - 01/2021. Our paper, “Acoustics to the Rescue: Physical Key Inference Attack Revisited” is accepted and will appear at **[USENIX Security 2021](https://www.usenix.org/conference/usenixsecurity21)**.
 
 # Selected Publications
-1. [**[NDSS'26](https://www.ndss-symposium.org/ndss2026/)**] Peering Inside the Black-Box: Long-Range and Scalable Model Architecture Snooping via GPU Electromagnetic Side-Channel <span style="color:red">  
+1. [**[NDSS'26](https://www.ndss-symposium.org/ndss2026/)**] Peering Inside the Black-Box: Long-Range and Scalable Model Architecture Snooping via GPU Electromagnetic Side-Channel    
    **Rui Xiao**, Sibo Feng, Soundarya Ramesh, Jun Han, and Jinsong Han  
    Network and Distributed System Security Symposium  
    *Acceptance Rate: 17.9% (265 of 1481)* [[paper](https://ruixiao24.github.io/files/ndss26-modelspy.pdf)] [[code](https://zenodo.org/records/17080118)]  
