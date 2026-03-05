@@ -5,10 +5,11 @@ author_profile: false
 classes: publications-page
 ---
 ### 2026
-1. [**[NDSS'26](https://www.ndss-symposium.org/ndss2026/)**] Peering Inside the Black-Box: Long-Range and Scalable Model Architecture Snooping via GPU Electromagnetic Side-Channel <span style="color:red"><strong><em>(To Appear)</em></strong></span>  
+1. [**[NDSS'26](https://www.ndss-symposium.org/ndss2026/)**] Peering Inside the Black-Box: Long-Range and Scalable Model Architecture Snooping via GPU Electromagnetic Side-Channel    
    **Rui Xiao**, Sibo Feng, Soundarya Ramesh, Jun Han, and Jinsong Han  
    Network and Distributed System Security Symposium  
-   *Acceptance Rate: To appear* [[paper](https://ruixiao24.github.io/files/ndss26-modelspy.pdf)] [[code](https://zenodo.org/records/17080118)]  
+   *Acceptance Rate: 17.9% (265 of 1481)* [[paper](https://ruixiao24.github.io/files/ndss26-modelspy.pdf)] [[code](https://zenodo.org/records/17080118)]  
+   🏆<span style="color:red"><strong><em>Distinguished Paper Award</em></strong></span>  
 1. [**[INFOCOM'26](https://infocom2026.ieee-infocom.org/)**] Turning GPU into an FM Radio: A Practical Data Exfiltration Framework from Air-gapped Systems  
    **Rui Xiao**, Sibo Feng, and Jinsong Han  
    IEEE International Conference on Computer Communications  
@@ -46,7 +47,7 @@ classes: publications-page
     **Rui Xiao**, Jianwei Liu, Jinsong Han, and Kui Ren  
     ACM Conference on Embedded Networked Sensor Systems  
     *Acceptance Rate: 17.9% (25 of 139)* [[paper](https://ruixiao24.github.io/files/rui_onefi.pdf)] [[slides](https://ruixiao24.github.io/files/onefi-sensys21.pptx)] [[code](https://github.com/ruixiao24/onefi)]  
-    <span style="color:red"> ***BEST PAPER AWARD CANDIDATE**</span>  
+    🏆<span style="color:red"><strong><em>Best Paper Award Candidate</em></strong></span>  
 1. [**[USENIX Security'21](https://www.usenix.org/conference/usenixsecurity21)**] Acoustics to the Rescue: Physical Key Inference Attack Revisited  
     Soundarya Ramesh, **Rui Xiao**, Anindya Maiti, Jong Taek Lee, Ananda Kumar, Harini Ramprasad, Murtuza Jadliwala, and Jun Han  
     USENIX Security Symposium  
