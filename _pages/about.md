@@ -26,8 +26,7 @@ I am hiring new graduate students (M.S./Ph.D. students) and undergraduate resear
 - 10/2025. I was invited to serve on the TPC of **[ACM MobiSys 2026](https://www.sigmobile.org/mobisys/2026/)**.
 - 07/2025. Our paper on GPU electromagnetic side-channel is accepted at **[NDSS 2026](https://www.ndss-symposium.org/ndss2026/)**.
 - 05/2025. I was selected as **[ACM MobiSys Rising Star 2025](https://www.sigmobile.org/mobisys/2025/)** for research on wireless sensing and security.
-- 11/2024. Our paper on WiFi beamforming feedback security is accepted at **[NDSS 2025](https://www.ndss-symposium.org/ndss2025/)**.
-
+- 11/2024. Our paper on WiFi beamforming feedback security is accepted at **[NDSS 2025](https://www.ndss-symposium.org/ndss2025/)**.  
 <details markdown="block">
 <summary><strong>Earlier news</strong></summary>
 
@@ -38,6 +37,7 @@ I am hiring new graduate students (M.S./Ph.D. students) and undergraduate resear
 - 01/2021. Our paper, “Acoustics to the Rescue: Physical Key Inference Attack Revisited” is accepted and will appear at **[USENIX Security 2021](https://www.usenix.org/conference/usenixsecurity21)**.
 
 </details>
+
 
 # Selected Publications
 1. [**[NDSS'26](https://www.ndss-symposium.org/ndss2026/)**] Peering Inside the Black-Box: Long-Range and Scalable Model Architecture Snooping via GPU Electromagnetic Side-Channel    
