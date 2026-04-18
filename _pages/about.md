@@ -68,9 +68,9 @@ I am hiring new graduate students (M.S./Ph.D. students) and undergraduate resear
     *Acceptance Rate: 18.7% (246 of 1316)* [[paper](https://www.usenix.org/system/files/sec21fall-ramesh.pdf)] [[slides](https://www.usenix.org/system/files/sec21_slides_ramesh.pdf)] 
 
 ## Honors and Awards
-- NDSS 2026 Distinguished Paper Award
-- ACM MobiSys 2025 Rising Star
-- ACM SenSys 2021 Best Paper Candidate
+- **Distinguished Paper Award**, NDSS 2026 <span style="float:right;">2026</span>
+- ACM MobiSys Rising Star <span style="float:right;">2025</span>
+- **Best Paper Award Candidate**, ACM SenSys 2021  <span style="float:right;">2021</span>
 
 ## Professional Services
 ### Technical Program Committee 
