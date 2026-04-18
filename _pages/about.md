@@ -13,7 +13,7 @@ redirect_from:
 I am an Assistant Professor in the [School of Computing and Artificial Intelligence](https://scai.sufe.edu.cn/) at [Shanghai University of Finance and Economics](https://english.sufe.edu.cn/). 
 My research interests lie at the intersection of ***security*** and ***AI/mobile/wireless/sensing systems***, with a particular focus on the innovative analysis of physical context to enable trustworthy interaction with the physical world in Artificial Internet-of-Things (AIoT) and Cyber-Physical Systems (CPS).
 I have published papers in several ***top conferences***, including ACM MobiCom, MobiSys, SenSys, NDSS, and USENIX Security. 
-My research has been recognized with [Distinguished Paper Award](https://www.ndss-symposium.org/ndss2026/) at NDSS 2026 and [Best Paper Award candidate](https://sensys.acm.org/2021/) at Sensys 2021.
+My research has received [Distinguished Paper Award](https://www.ndss-symposium.org/ndss2026/) at NDSS 2026 and [Best Paper Award candidate](https://sensys.acm.org/2021/) at Sensys 2021.
 
 I obtained my Ph.D in Computer Science at Zhejiang University in 2025, advised by [Prof. Jinsong Han](https://person.zju.edu.cn/en/hanjinsong). I also worked closely with [Prof. Jun Han](http://www.junhan.org/) from KAIST. I received my B.S. in Physics with honors at Zhejiang University in 2020.
 
@@ -37,7 +37,7 @@ I am hiring new graduate students (M.S./Ph.D. students) and undergraduate resear
 - 01/2021. Our paper, “Acoustics to the Rescue: Physical Key Inference Attack Revisited” is accepted and will appear at **[USENIX Security 2021](https://www.usenix.org/conference/usenixsecurity21)**.
 </details>
 
-<div style="width:50%; border-top:1px solid #ccc; margin: 1em 0 0.8em 0;"></div>
+<div style="height: 0.6em;"></div>
 
 # Selected Publications
 1. [**[NDSS'26](https://www.ndss-symposium.org/ndss2026/)**] Peering Inside the Black-Box: Long-Range and Scalable Model Architecture Snooping via GPU Electromagnetic Side-Channel    
