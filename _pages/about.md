@@ -68,9 +68,12 @@ I am hiring new graduate students (M.S./Ph.D. students) and undergraduate resear
     *Acceptance Rate: 18.7% (246 of 1316)* [[paper](https://www.usenix.org/system/files/sec21fall-ramesh.pdf)] [[slides](https://www.usenix.org/system/files/sec21_slides_ramesh.pdf)] 
 
 ## Honors and Awards
-- Distinguished Paper Award, NDSS 2026 <span style="float:right;">2026</span>
-- ACM MobiSys Rising Star 2025 <span style="float:right;">2025</span>
-- Best Paper Award Candidate, ACM SenSys 2021  <span style="float:right;">2021</span>
+- **Distinguished Paper Award** <span style="float:right;">2026</span>  
+  Network and Distributed System Security Symposium (NDSS) 2026
+- **ACM MobiSys Rising Star** <span style="float:right;">2025</span>  
+  ACM International Conference on Mobile Systems, Applications, and Services (MobiSys) 2025
+- **Best Paper Award Candidate**  <span style="float:right;">2021</span>  
+  ACM Conference on Embedded Networked Sensor Systems (SenSys) 2021
 
 ## Professional Services
 ### Technical Program Committee 
