@@ -13,7 +13,7 @@ redirect_from:
 I am an Assistant Professor in the [School of Computing and Artificial Intelligence](https://scai.sufe.edu.cn/) at [Shanghai University of Finance and Economics](https://english.sufe.edu.cn/). 
 My research interests lie at the intersection of ***security*** and ***AI/mobile/wireless/sensing systems***, with a particular focus on the innovative analysis of physical context to enable trustworthy interaction with the physical world in Artificial Internet-of-Things (AIoT) and Cyber-Physical Systems (CPS).
 I have published papers in several ***top conferences***, including ACM MobiCom, MobiSys, SenSys, NDSS, and USENIX Security. 
-My research has been recognized with the [Distinguished Paper Award](https://www.ndss-symposium.org/ndss2026/) at NDSS 2026 and the [Best Paper Award candidate](https://sensys.acm.org/2021/) at Sensys 2021.
+My research has been recognized with [Distinguished Paper Award](https://www.ndss-symposium.org/ndss2026/) at NDSS 2026 and [Best Paper Award candidate](https://sensys.acm.org/2021/) at Sensys 2021.
 
 I obtained my Ph.D in Computer Science at Zhejiang University in 2025, advised by [Prof. Jinsong Han](https://person.zju.edu.cn/en/hanjinsong). I also worked closely with [Prof. Jun Han](http://www.junhan.org/) from KAIST. I received my B.S. in Physics with honors at Zhejiang University in 2020.
 
@@ -26,18 +26,18 @@ I am hiring new graduate students (M.S./Ph.D. students) and undergraduate resear
 - 10/2025. I was invited to serve on the TPC of **[ACM MobiSys 2026](https://www.sigmobile.org/mobisys/2026/)**.
 - 07/2025. Our paper on GPU electromagnetic side-channel is accepted at **[NDSS 2026](https://www.ndss-symposium.org/ndss2026/)**.
 - 05/2025. I was selected as **[ACM MobiSys Rising Star 2025](https://www.sigmobile.org/mobisys/2025/)** for research on wireless sensing and security.
-- 11/2024. Our paper on WiFi beamforming feedback security is accepted at **[NDSS 2025](https://www.ndss-symposium.org/ndss2025/)**.  
-<details markdown="block">
-<summary><strong>Earlier news</strong></summary>
-
+- 11/2024. Our paper on WiFi beamforming feedback security is accepted at **[NDSS 2025](https://www.ndss-symposium.org/ndss2025/)**.
 - 03/2024. Our paper on optical camera communication is accepted at **[MobiSys 2024](https://sigmobile.org/mobisys/2024/)**.
-- 06/2023. One paper is conditionally accepted at **[MobiCom 2023](https://sigmobile.org/mobicom/2023/)**.
+- 06/2023. One paper is conditionally accepted at **[MobiCom 2023](https://sigmobile.org/mobicom/2023/)**.  
+<details markdown="block">
+<summary>earlier news</summary>
+  
 - 11/2021. OneFi is selected as the best paper candidate. [5 out of 139 submissions]
 - 09/2021. Our paper, “Onefi: One-shot Recognition for Unseen Gesture via COTS WiFi” is accepted and will appear at **[SenSys 2021](https://sensys.acm.org/2021/)**.
 - 01/2021. Our paper, “Acoustics to the Rescue: Physical Key Inference Attack Revisited” is accepted and will appear at **[USENIX Security 2021](https://www.usenix.org/conference/usenixsecurity21)**.
-
 </details>
 
+<div style="width:50%; border-top:1px solid #ccc; margin: 1em 0 0.8em 0;"></div>
 
 # Selected Publications
 1. [**[NDSS'26](https://www.ndss-symposium.org/ndss2026/)**] Peering Inside the Black-Box: Long-Range and Scalable Model Architecture Snooping via GPU Electromagnetic Side-Channel    
