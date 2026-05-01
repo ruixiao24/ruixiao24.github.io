@@ -8,7 +8,7 @@ classes: publications-page
 1. [**[NDSS'26](https://www.ndss-symposium.org/ndss2026/)**] Peering Inside the Black-Box: Long-Range and Scalable Model Architecture Snooping via GPU Electromagnetic Side-Channel    
    **Rui Xiao**, Sibo Feng, Soundarya Ramesh, Jun Han, and Jinsong Han  
    Network and Distributed System Security Symposium  
-   *Acceptance Rate: 17.9% (265 of 1481)* [[paper](https://ruixiao24.github.io/files/ndss26-modelspy.pdf)] [[code](https://zenodo.org/records/17080118)]  
+   *Acceptance Rate: 17.9% (265 of 1481)* [[paper](https://ruixiao24.github.io/files/ndss26-modelspy.pdf)] [[slides](https://ruixiao24.github.io/files/ndss26-modelspy-slides.pdf)] [[code](https://zenodo.org/records/17080118)]  
    🏆<span style="color:red"><strong><em>Distinguished Paper Award</em></strong></span>  
 1. [**[INFOCOM'26](https://infocom2026.ieee-infocom.org/)**] Turning GPU into an FM Radio: A Practical Data Exfiltration Framework from Air-gapped Systems  
    **Rui Xiao**, Sibo Feng, and Jinsong Han  
@@ -18,6 +18,9 @@ classes: publications-page
    Leqi Zhao, Luxin Shi, Jianwei Liu, **Rui Xiao (corresponding)**, and Jinsong Han  
    IEEE International Conference on Computer Communications  
    *Acceptance Rate: 18.9% (329 of 1740)* [[paper](https://ruixiao24.github.io/files/echofense-infocom26.pdf)]  
+1. [**[NetAISys'26](https://netaisys.github.io/)**] What Do Neighbors Know? Open-World Semantic Inference Attack on Intermediate Representations  
+   Bangjie Sun, Sean Rui Xiang Tan, **Rui Xiao**, Mun Choon Chan, and Jun Han  
+   International Workshop on Networked AI Systems (*co-located workshop with ACM MobiSys 2026*)  
 
 ### 2025
 1. [**[NDSS'25](https://www.ndss-symposium.org/ndss2025/)**] Lend Me Your Beam: Privacy Implications of Plaintext Beamforming Feedback in WiFi  
