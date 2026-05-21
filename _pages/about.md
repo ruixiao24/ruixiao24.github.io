@@ -77,6 +77,7 @@ I am hiring new graduate students (M.S./Ph.D. students) and undergraduate resear
 
 ## Professional Services
 ### Technical Program Committee 
+- IEEE INFOCOM 2027
 - ACM MobiSys 2026
 - ACM MobiCom 2025, ACM MobiSys 2025, ACM CCS 2025 (Artifact Evaluation)
 - ACM CoNEXT 2025 (Shadow)
