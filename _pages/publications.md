@@ -17,7 +17,7 @@ classes: publications-page
 1. [**[INFOCOM'26](https://infocom2026.ieee-infocom.org/)**] EchoFence: Non-Intrusive Forgery Detection in Video Conferencing via Ultrasonic Sensing  
    Leqi Zhao, Luxin Shi, Jianwei Liu, **Rui Xiao (corresponding)**, and Jinsong Han  
    IEEE International Conference on Computer Communications  
-   *Acceptance Rate: 18.9% (329 of 1740)* [[paper](https://ruixiao24.github.io/files/echofense-infocom26.pdf)]  
+   *Acceptance Rate: 18.9% (329 of 1740)* [[paper](https://ruixiao24.github.io/files/echofense-infocom26.pdf)]  [[slides](https://ruixiao24.github.io/files/infocom26-echofense-slides.pdf)]  
 1. [**[NetAISys'26](https://netaisys.github.io/)**] What Do Neighbors Know? Open-World Semantic Inference Attack on Intermediate Representations  
    Bangjie Sun, Sean Rui Xiang Tan, **Rui Xiao**, Mun Choon Chan, and Jun Han  
    International Workshop on Networked AI Systems (*co-located workshop with ACM MobiSys 2026*)  
@@ -30,6 +30,7 @@ classes: publications-page
 1. [**[MobiSys'25](https://sigmobile.org/mobisys/2025/)**] Exploiting and Securing WiFi for Pervasive Human Sensing  
    **Rui Xiao**  
    ACM International Conference on Mobile Systems, Applications, and Services (Rising Star Forum)  
+   [[paper](https://ruixiao24.github.io/files/mobisys25-xiao.pdf)] [[slides](https://ruixiao24.github.io/files/mobisys25-rising-star-slides-xiao.pdf)]  
 
 ### 2024
 1. [**[MobiSys'24](https://sigmobile.org/mobisys/2024/)**] Practical Optical Camera Communication Behind Unseen and Complex Backgrounds  
