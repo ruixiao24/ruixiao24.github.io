@@ -13,7 +13,7 @@ classes: publications-page
 1. [**[INFOCOM'26](https://infocom2026.ieee-infocom.org/)**] Turning GPU into an FM Radio: A Practical Data Exfiltration Framework from Air-gapped Systems  
    **Rui Xiao**, Sibo Feng, and Jinsong Han  
    IEEE International Conference on Computer Communications  
-   *Acceptance Rate: 18.9% (329 of 1740)* [[paper](https://ruixiao24.github.io/files/magwhisper-infocom26.pdf)]  
+   *Acceptance Rate: 18.9% (329 of 1740)* [[paper](https://ruixiao24.github.io/files/magwhisper-infocom26.pdf)]  [[slides](https://ruixiao24.github.io/files/infocom26-magwhisper-slides.pdf)]  
 1. [**[INFOCOM'26](https://infocom2026.ieee-infocom.org/)**] EchoFence: Non-Intrusive Forgery Detection in Video Conferencing via Ultrasonic Sensing  
    Leqi Zhao, Luxin Shi, Jianwei Liu, **Rui Xiao (corresponding)**, and Jinsong Han  
    IEEE International Conference on Computer Communications  
