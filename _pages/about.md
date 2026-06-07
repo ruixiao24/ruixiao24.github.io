@@ -40,7 +40,7 @@ I am hiring new graduate students (M.S./Ph.D. students) and undergraduate resear
 <div style="height: 0.6em;"></div>
 
 # Selected Publications
-For a complete list of my publications, please see my [full publication list](https://ruixiao24.github.io/publications/).  
+For a complete list of my publications, please see my [Full Publication List](https://ruixiao24.github.io/publications/).  
 1. [**[NDSS'26](https://www.ndss-symposium.org/ndss2026/)**] Peering Inside the Black-Box: Long-Range and Scalable Model Architecture Snooping via GPU Electromagnetic Side-Channel    
    **Rui Xiao**, Sibo Feng, Soundarya Ramesh, Jun Han, and Jinsong Han  
    Network and Distributed System Security Symposium  
