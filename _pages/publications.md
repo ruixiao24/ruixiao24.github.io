@@ -20,7 +20,13 @@ classes: publications-page
    *Acceptance Rate: 18.9% (329 of 1740)* [[paper](https://ruixiao24.github.io/files/echofense-infocom26.pdf)]  [[slides](https://ruixiao24.github.io/files/infocom26-echofense-slides.pdf)]  
 1. [**[NetAISys'26](https://netaisys.github.io/)**] What Do Neighbors Know? Open-World Semantic Inference Attack on Intermediate Representations  
    Bangjie Sun, Sean Rui Xiang Tan, **Rui Xiao**, Mun Choon Chan, and Jun Han  
-   International Workshop on Networked AI Systems (*co-located workshop with ACM MobiSys 2026*)  
+   International Workshop on Networked AI Systems (*co-located workshop with ACM MobiSys 2026*)
+<span style="color:#777; font-size:0.95em;">Poster Abstract</span>
+
+* [**Poster Abstract: [MobiSys'26](https://sigmobile.org/mobisys/2026/)**] Discovering Unanticipated Semantic Leakage from Intermediate Representations  
+  Bangjie Sun, Sean Rui Xiang Tan, **Rui Xiao**, Mun Choon Chan, and Jun Han  
+  ACM International Conference on Mobile Systems, Applications, and Services
+
 
 ### 2025
 1. [**[NDSS'25](https://www.ndss-symposium.org/ndss2025/)**] Lend Me Your Beam: Privacy Implications of Plaintext Beamforming Feedback in WiFi  
