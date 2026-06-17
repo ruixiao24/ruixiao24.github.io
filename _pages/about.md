@@ -22,6 +22,7 @@ I am hiring new graduate students (M.S./Ph.D. students) and undergraduate resear
 如果你想参与世界一流的科研工作（本科/硕士/博士），欢迎加入我们！
 
 # News
+- 06/2026. I was invited to serve on the TPC of **[USENIX Security 2027](https://www.usenix.org/conference/usenixsecurity27)**.
 - 02/2026. ModelSpy is selected as **[NDSS Distinguished Paper](https://www.ndss-symposium.org/ndss2026/)** 🏆 (10 of 1481).
 - 10/2025. I was invited to serve on the TPC of **[ACM MobiSys 2026](https://www.sigmobile.org/mobisys/2026/)**.
 - 07/2025. Our paper on GPU electromagnetic side-channel is accepted at **[NDSS 2026](https://www.ndss-symposium.org/ndss2026/)**.
@@ -78,6 +79,7 @@ For a complete list of my publications, please see my [Full Publication List](ht
 
 ## Professional Services
 ### Technical Program Committee 
+- USENIX Security 2027
 - IEEE INFOCOM 2027
 - ACM MobiSys 2026
 - ACM MobiCom 2025, ACM MobiSys 2025, ACM CCS 2025 (Artifact Evaluation)
