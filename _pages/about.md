@@ -22,17 +22,17 @@ I am hiring new graduate students (M.S./Ph.D. students) and undergraduate resear
 如果你想参与世界一流的科研工作（本科/硕士/博士），欢迎加入我们！
 
 # News
-- 06/2026. I was invited to serve on the TPC of **[USENIX Security 2027](https://www.usenix.org/conference/usenixsecurity27)**.
+- 06/2026. I was invited to serve on the TPC of **[USENIX Security 2027](https://www.usenix.org/conference/usenixsecurity27)** and **[INFOCOM 2027](https://infocom2027.ieee-infocom.org/)**.
 - 02/2026. ModelSpy is selected as **[NDSS Distinguished Paper](https://www.ndss-symposium.org/ndss2026/)** 🏆 (10 of 1481).
 - 10/2025. I was invited to serve on the TPC of **[ACM MobiSys 2026](https://www.sigmobile.org/mobisys/2026/)**.
 - 07/2025. Our paper on GPU electromagnetic side-channel is accepted at **[NDSS 2026](https://www.ndss-symposium.org/ndss2026/)**.
 - 05/2025. I was selected as **[ACM MobiSys Rising Star 2025](https://www.sigmobile.org/mobisys/2025/)** for research on wireless sensing and security.
-- 11/2024. Our paper on WiFi beamforming feedback security is accepted at **[NDSS 2025](https://www.ndss-symposium.org/ndss2025/)**.
-- 03/2024. Our paper on optical camera communication is accepted at **[MobiSys 2024](https://sigmobile.org/mobisys/2024/)**.
-- 06/2023. One paper is conditionally accepted at **[MobiCom 2023](https://sigmobile.org/mobicom/2023/)**.  
+- 11/2024. Our paper on WiFi beamforming feedback security is accepted at **[NDSS 2025](https://www.ndss-symposium.org/ndss2025/)**.  
 <details markdown="block">
 <summary>earlier news</summary>
-  
+
+- 03/2024. Our paper on optical camera communication is accepted at **[MobiSys 2024](https://sigmobile.org/mobisys/2024/)**.
+- 06/2023. One paper is conditionally accepted at **[MobiCom 2023](https://sigmobile.org/mobicom/2023/)**.  
 - 11/2021. OneFi is selected as the best paper candidate. [5 out of 139 submissions]
 - 09/2021. Our paper, “Onefi: One-shot Recognition for Unseen Gesture via COTS WiFi” is accepted and will appear at **[SenSys 2021](https://sensys.acm.org/2021/)**.
 - 01/2021. Our paper, “Acoustics to the Rescue: Physical Key Inference Attack Revisited” is accepted and will appear at **[USENIX Security 2021](https://www.usenix.org/conference/usenixsecurity21)**.
