@@ -51,11 +51,13 @@ classes: publications-page
     IEEE International Conference on Computer Communications  
     *Acceptance Rate: 19.6% (256 of 1307)* [[paper](https://ruixiao24.github.io/files/onesense-infocom24.pdf)] [[slides](https://ruixiao24.github.io/files/OneSense.pdf)]  
 
-### 2023 and Before
+### 2023
 1. [**[MobiCom'23](https://sigmobile.org/mobicom/2023/)**] MagTracer: Detecting GPU Cryptojacking Attacks via Magnetic Leakage Signals  
     **Rui Xiao**, Tianyu Li, Soundarya Ramesh, Jun Han, and Jinsong Han  
     ACM International Conference on Mobile Computing and Networking  
-    *Acceptance Rate: 24.4% (92 of 377)* [[paper](https://ruixiao24.github.io/files/magtracer-mobicom23.pdf)] [[slides](https://ruixiao24.github.io/files/MagTracer-mobicom23.pptx)] [[ACM News](https://cacm.acm.org/news/magnetic-sensors-pinpoint-gpu-cryptojacking-attacks)]  
+    *Acceptance Rate: 24.4% (92 of 377)* [[paper](https://ruixiao24.github.io/files/magtracer-mobicom23.pdf)] [[slides](https://ruixiao24.github.io/files/MagTracer-mobicom23.pptx)] [[ACM News](https://cacm.acm.org/news/magnetic-sensors-pinpoint-gpu-cryptojacking-attacks)]
+
+### 2021
 1. [**[SenSys'21](https://sensys.acm.org/2021/)**] OneFi: One-Shot Recognition for Unseen Gesture via COTS WiFi  
     **Rui Xiao**, Jianwei Liu, Jinsong Han, and Kui Ren  
     ACM Conference on Embedded Networked Sensor Systems  
