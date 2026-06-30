@@ -22,10 +22,10 @@ classes: publications-page
    Jianwei Liu, Jiatong Chen, **Rui Xiao**, Xing Fu, Xin-Wei Yao, and Jinsong Han  
    ACM Symposium on User Interface Software and Technology  
    *Acceptance Rate: 20.1% (253 of 1259)*  
-1. [**[NetAISys'26](https://netaisys.github.io/)**] What Do Neighbors Know? Open-World Semantic Inference Attack on Intermediate Representations  
-   Bangjie Sun, Sean Rui Xiang Tan, **Rui Xiao**, Mun Choon Chan, and Jun Han  
-   International Workshop on Networked AI Systems (*co-located workshop with **ACM MobiSys'26***)
 
+* [**Workshop Paper: [NetAISys'26](https://netaisys.github.io/)**] What Do Neighbors Know? Open-World Semantic Inference Attack on Intermediate Representations  
+   Bangjie Sun, Sean Rui Xiang Tan, **Rui Xiao**, Mun Choon Chan, and Jun Han  
+   International Workshop on Networked AI Systems (*co-located with **ACM MobiSys'26***)  
 * [**Poster Abstract: [MobiSys'26](https://sigmobile.org/mobisys/2026/)**] Discovering Unanticipated Semantic Leakage from Intermediate Representations  
   Bangjie Sun, Sean Rui Xiang Tan, **Rui Xiao**, Mun Choon Chan, and Jun Han  
   ACM International Conference on Mobile Systems, Applications, and Services
