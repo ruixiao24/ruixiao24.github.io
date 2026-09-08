@@ -18,6 +18,9 @@ classes: publications-page
    Leqi Zhao, Luxin Shi, Jianwei Liu, **Rui Xiao (corresponding)**, and Jinsong Han  
    IEEE International Conference on Computer Communications  
    *Acceptance Rate: 18.9% (329 of 1740)* [[paper](https://ruixiao24.github.io/files/echofense-infocom26.pdf)]  [[slides](https://ruixiao24.github.io/files/infocom26-echofense-slides.pdf)]
+1. [**[UbiComp'26/IMWUT](https://sigchi.org/events/ubicomp-iswc-2026/)**] One2Three: 1D Scanning Unlocks High-Fidelity 3D Object Reconstruction    
+   Ge Wang, Jiazheng Chen, **Rui Xiao**, Fusang Zhang, Fei Wang, Shouqian Shi, Han Ding, Cui Zhao, and Wei Xi  
+   ACM International Joint Conference on Pervasive and Ubiquitous Computing    
 1. [**[UIST'26](https://uist.acm.org/2026/)**] Boosting WiFi-based Gesture Recognition via High-affinity and Behaviorally Diverse Data Synthesis    
    Jianwei Liu, Jiatong Chen, **Rui Xiao**, Xing Fu, Xin-Wei Yao, and Jinsong Han  
    ACM Symposium on User Interface Software and Technology  
