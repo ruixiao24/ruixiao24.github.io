@@ -7,8 +7,8 @@ classes: publications-page
 ### 2026
 1. [**[NeurIPS'26](https://neurips.cc/Conferences/2026)**] Roll2Depth: Zero-Shot Metric Depth Estimation Exploiting Camera's Rolling Shutter Effect  
    **Rui Xiao**, Jinming Xu, and Jinsong Han  
-   Conference on Neural Information Processing Systems  <span style="color:red"><strong><em>(To Appear)</em></strong></span>  
-   *Acceptance Rate: To appear*  
+   Conference on Neural Information Processing Systems    
+   *Acceptance Rate: 25.7% (7900 of 30709)* <span style="color:red"><strong><em>(To Appear)</em></strong></span>  
 1. [**[NDSS'26](https://www.ndss-symposium.org/ndss2026/)**] Peering Inside the Black-Box: Long-Range and Scalable Model Architecture Snooping via GPU Electromagnetic Side-Channel    
    **Rui Xiao**, Sibo Feng, Soundarya Ramesh, Jun Han, and Jinsong Han  
    Network and Distributed System Security Symposium  
