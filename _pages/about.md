@@ -41,11 +41,19 @@ I am hiring new graduate students (M.S./Ph.D. students) and undergraduate resear
 
 # Selected Publications
 For a complete list of my publications, please see my [Full Publication List](https://ruixiao24.github.io/publications/).  
+1. [**[NeurIPS'26](https://neurips.cc/Conferences/2026)**] Roll2Depth: Zero-Shot Metric Depth Estimation Exploiting Camera's Rolling Shutter Effect  
+   **Rui Xiao**, Jinming Xu, and Jinsong Han  
+   Conference on Neural Information Processing Systems    
+   *Acceptance Rate: 25.7% (7900 of 30709)* <span style="color:red"><strong><em>(To Appear)</em></strong></span>  
 1. [**[NDSS'26](https://www.ndss-symposium.org/ndss2026/)**] Peering Inside the Black-Box: Long-Range and Scalable Model Architecture Snooping via GPU Electromagnetic Side-Channel    
    **Rui Xiao**, Sibo Feng, Soundarya Ramesh, Jun Han, and Jinsong Han  
    Network and Distributed System Security Symposium  
    *Acceptance Rate: 17.9% (265 of 1481)* [[paper](https://ruixiao24.github.io/files/ndss26-modelspy.pdf)] [[slides](https://ruixiao24.github.io/files/ndss26-modelspy-slides.pdf)] [[code](https://zenodo.org/records/17080118)]  
-   🏆<span style="color:red"><strong><em>Distinguished Paper Award</em></strong></span>  
+   🏆<span style="color:red"><strong><em>Distinguished Paper Award</em></strong></span>
+1. [**[INFOCOM'26](https://infocom2026.ieee-infocom.org/)**] Turning GPU into an FM Radio: A Practical Data Exfiltration Framework from Air-gapped Systems  
+   **Rui Xiao**, Sibo Feng, and Jinsong Han  
+   IEEE International Conference on Computer Communications  
+   *Acceptance Rate: 18.9% (329 of 1740)* [[paper](https://ruixiao24.github.io/files/magwhisper-infocom26.pdf)]  [[slides](https://ruixiao24.github.io/files/infocom26-magwhisper-slides.pdf)]  
 1. [**[NDSS'25](https://www.ndss-symposium.org/ndss2025/)**] Lend Me Your Beam: Privacy Implications of Plaintext Beamforming Feedback in WiFi  
    **Rui Xiao**, Xiankai Chen, Yinghui He, Jun Han, and Jinsong Han  
    Network and Distributed System Security Symposium  
