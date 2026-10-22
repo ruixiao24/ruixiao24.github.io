@@ -1,2 +1,6 @@
 _site/
 
+# Local Ruby / Jekyll environment
+.bundle/
+vendor/
+Gemfile.lock.backup

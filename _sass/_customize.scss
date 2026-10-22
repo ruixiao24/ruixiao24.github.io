@@ -16,3 +16,148 @@
 .publications-page .archive__item-title {
   font-family: $global-font-family; /* matches About’s font */
 }
+
+/* ==========================================
+   GitHub Markdown-style Homepage
+   ========================================== */
+
+.page__content {
+  font-family: -apple-system, BlinkMacSystemFont,
+    "Segoe UI", "Noto Sans", Helvetica, Arial,
+    sans-serif;
+  font-size: 16px;
+  line-height: 1.5;
+  color: #1f2328;
+  overflow-wrap: break-word;
+
+  /* Body text */
+  p, li, dl {
+    font-size: 16px;
+    line-height: 1.5;
+  }
+
+  p, ul, ol, blockquote, table, pre {
+    margin-top: 0;
+    margin-bottom: 16px;
+  }
+
+  /* Headings */
+  h1, h2, h3, h4, h5, h6 {
+    font-family: inherit;
+    font-weight: 600;
+    line-height: 1.25;
+    margin-top: 24px;
+    margin-bottom: 16px;
+    color: inherit;
+  }
+
+  h1 {
+    font-size: 32px;
+    padding-bottom: 0.3em;
+    border-bottom: 1px solid #d1d9e0;
+  }
+
+  h2 {
+    font-size: 24px;
+    padding-bottom: 0.3em;
+    border-bottom: 1px solid #d1d9e0;
+  }
+
+  h3 { font-size: 20px; }
+  h4 { font-size: 16px; }
+  h5 { font-size: 14px; }
+  h6 { font-size: 13.6px; }
+
+  /* Lists */
+  ul, ol {
+    padding-left: 2em;
+  }
+
+  li + li {
+    margin-top: 0.25em;
+  }
+
+  /* Links */
+  a {
+    color: #0969da;
+    text-decoration: none;
+
+    &:hover {
+      text-decoration: underline;
+    }
+  }
+
+  /* First heading */
+  > h1:first-child {
+    margin-top: 0;
+  }
+}
+
+/* Desktop layout width */
+@media (min-width: 1280px) {
+  #main {
+    max-width: 1400px;
+  }
+}
+
+/* Match GitHub Markdown bold weight */
+.page__content {
+  strong, b {
+    font-weight: 600;
+  }
+}
+
+/* Consistent typography across the website */
+
+$mainsite-font: -apple-system, BlinkMacSystemFont,
+  "Segoe UI", "Noto Sans", Helvetica, Arial, sans-serif;
+
+/* Global font */
+body {
+  font-family: $mainsite-font;
+}
+
+/* Navigation */
+.greedy-nav {
+  font-family: $mainsite-font;
+
+  a {
+    font-size: 15px;
+    font-weight: 600;
+  }
+}
+
+/* Sidebar typography */
+.sidebar {
+  font-family: -apple-system, BlinkMacSystemFont,
+    "Segoe UI", "Noto Sans", Helvetica, Arial, sans-serif;
+
+  .author__name {
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 1.25;
+    color: #24292f;
+  }
+
+  .author__bio {
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #57606a;
+  }
+
+  .author__urls {
+    font-size: 13px;
+    line-height: 1.6;
+
+    li, a {
+      font-size: inherit;
+      font-weight: 400;
+    }
+  }
+}
+
+/* Disable sticky sidebar */
+.sidebar.sticky {
+  position: static !important;
+}
