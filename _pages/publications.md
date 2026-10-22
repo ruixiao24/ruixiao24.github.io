@@ -5,78 +5,77 @@ author_profile: false
 classes: publications-page
 ---
 ### 2027
-1. [**[UbiComp'27/IMWUT](https://sigchi.org/events/ubicomp-2027/)**] LightMark: Towards Trustworthy Crowd-sourced Social Videos through In-Band Visible Light Watermarking <span style="color:red"><strong><em>(To Appear)</em></strong></span>  
+1. [**[UbiComp'27/IMWUT](https://sigchi.org/events/ubicomp-2027/)**] **LightMark: Towards Trustworthy Crowd-sourced Social Videos through In-Band Visible Light Watermarking** <span style="color:red"><strong><em>(To Appear)</em></strong></span>  
    **Rui Xiao**, Huiyu Xu, Ming Gao, and Jinsong Han  
-   ACM International Joint Conference on Pervasive and Ubiquitous Computing  
-   [[paper](https://ruixiao24.github.io/files/ubicomp27-lightmark.pdf)]
+   ACM International Joint Conference on Pervasive and Ubiquitous Computing [[paper](https://ruixiao24.github.io/files/ubicomp27-lightmark.pdf)]  
 
 ### 2026
-1. [**[NeurIPS'26](https://neurips.cc/Conferences/2026)**] Roll2Depth: Zero-Shot Metric Depth Estimation Exploiting Camera's Rolling Shutter Effect <span style="color:red"><strong><em>(To Appear)</em></strong></span>  
+1. [**[NeurIPS'26](https://neurips.cc/Conferences/2026)**] **Roll2Depth: Zero-Shot Metric Depth Estimation Exploiting Camera's Rolling Shutter Effect** <span style="color:red"><strong><em>(To Appear)</em></strong></span>  
    **Rui Xiao**, Jinming Xu, and Jinsong Han  
    Conference on Neural Information Processing Systems    
    *Acceptance Rate: 25.7% (7900 of 30709)* [[paper](https://ruixiao24.github.io/files/neurips26-roll2depth.pdf)]  
-1. [**[NDSS'26](https://www.ndss-symposium.org/ndss2026/)**] Peering Inside the Black-Box: Long-Range and Scalable Model Architecture Snooping via GPU Electromagnetic Side-Channel    
+1. [**[NDSS'26](https://www.ndss-symposium.org/ndss2026/)**] **Peering Inside the Black-Box: Long-Range and Scalable Model Architecture Snooping via GPU Electromagnetic Side-Channel**    
    **Rui Xiao**, Sibo Feng, Soundarya Ramesh, Jun Han, and Jinsong Han  
    Network and Distributed System Security Symposium  
    *Acceptance Rate: 17.9% (265 of 1481)* [[paper](https://ruixiao24.github.io/files/ndss26-modelspy.pdf)] [[slides](https://ruixiao24.github.io/files/ndss26-modelspy-slides.pdf)] [[code](https://zenodo.org/records/17080118)]  
    🏆<span style="color:red"><strong><em>Distinguished Paper Award</em></strong></span>  
-1. [**[INFOCOM'26](https://infocom2026.ieee-infocom.org/)**] Turning GPU into an FM Radio: A Practical Data Exfiltration Framework from Air-gapped Systems  
+1. [**[INFOCOM'26](https://infocom2026.ieee-infocom.org/)**] **Turning GPU into an FM Radio: A Practical Data Exfiltration Framework from Air-gapped Systems**  
    **Rui Xiao**, Sibo Feng, and Jinsong Han  
    IEEE International Conference on Computer Communications  
    *Acceptance Rate: 18.9% (329 of 1740)* [[paper](https://ruixiao24.github.io/files/magwhisper-infocom26.pdf)]  [[slides](https://ruixiao24.github.io/files/infocom26-magwhisper-slides.pdf)]  
-1. [**[INFOCOM'26](https://infocom2026.ieee-infocom.org/)**] EchoFence: Non-Intrusive Forgery Detection in Video Conferencing via Ultrasonic Sensing  
+1. [**[INFOCOM'26](https://infocom2026.ieee-infocom.org/)**] **EchoFence: Non-Intrusive Forgery Detection in Video Conferencing via Ultrasonic Sensing**  
    Leqi Zhao, Luxin Shi, Jianwei Liu, **Rui Xiao (corresponding)**, and Jinsong Han  
    IEEE International Conference on Computer Communications  
    *Acceptance Rate: 18.9% (329 of 1740)* [[paper](https://ruixiao24.github.io/files/echofense-infocom26.pdf)]  [[slides](https://ruixiao24.github.io/files/infocom26-echofense-slides.pdf)]
-1. [**[UbiComp'26/IMWUT](https://sigchi.org/events/ubicomp-iswc-2026/)**] One2Three: 1D Scanning Unlocks High-Fidelity 3D Object Reconstruction    
+1. [**[UbiComp'26/IMWUT](https://sigchi.org/events/ubicomp-iswc-2026/)**] **One2Three: 1D Scanning Unlocks High-Fidelity 3D Object Reconstruction**    
    Ge Wang, Jiazheng Chen, **Rui Xiao**, Fusang Zhang, Fei Wang, Shouqian Shi, Han Ding, Cui Zhao, and Wei Xi  
    ACM International Joint Conference on Pervasive and Ubiquitous Computing    
-1. [**[UIST'26](https://uist.acm.org/2026/)**] Boosting WiFi-based Gesture Recognition via High-affinity and Behaviorally Diverse Data Synthesis    
+1. [**[UIST'26](https://uist.acm.org/2026/)**] **Boosting WiFi-based Gesture Recognition via High-affinity and Behaviorally Diverse Data Synthesis**    
    Jianwei Liu, Jiatong Chen, **Rui Xiao**, Xing Fu, Xin-Wei Yao, and Jinsong Han  
    ACM Symposium on User Interface Software and Technology  
    *Acceptance Rate: 20.1% (253 of 1259)*  
 
-* [**Workshop Paper: [NetAISys'26](https://netaisys.github.io/)**] What Do Neighbors Know? Open-World Semantic Inference Attack on Intermediate Representations  
+* [**Workshop Paper: [NetAISys'26](https://netaisys.github.io/)**] **What Do Neighbors Know? Open-World Semantic Inference Attack on Intermediate Representations**  
    Bangjie Sun, Sean Rui Xiang Tan, **Rui Xiao**, Mun Choon Chan, and Jun Han  
-   International Workshop on Networked AI Systems (*co-located with **ACM MobiSys'26***)  
-* [**Poster Abstract: [MobiSys'26](https://sigmobile.org/mobisys/2026/)**] Discovering Unanticipated Semantic Leakage from Intermediate Representations  
+   International Workshop on Networked AI Systems (*co-located with **ACM MobiSys'26***)  [[paper](https://dl.acm.org/doi/10.1145/3812836.3815162)]  
+* [**Poster Abstract: [MobiSys'26](https://sigmobile.org/mobisys/2026/)**] **Discovering Unanticipated Semantic Leakage from Intermediate Representations**  
   Bangjie Sun, Sean Rui Xiang Tan, **Rui Xiao**, Mun Choon Chan, and Jun Han  
-  ACM International Conference on Mobile Systems, Applications, and Services
+  ACM International Conference on Mobile Systems, Applications, and Services  [[paper](https://dl.acm.org/doi/10.1145/3812835.3814855)]
 
 
 ### 2025
-1. [**[NDSS'25](https://www.ndss-symposium.org/ndss2025/)**] Lend Me Your Beam: Privacy Implications of Plaintext Beamforming Feedback in WiFi  
+1. [**[NDSS'25](https://www.ndss-symposium.org/ndss2025/)**] **Lend Me Your Beam: Privacy Implications of Plaintext Beamforming Feedback in WiFi**  
    **Rui Xiao**, Xiankai Chen, Yinghui He, Jun Han, and Jinsong Han  
    Network and Distributed System Security Symposium  
    *Acceptance Rate: 16.1% (211 of 1311)* [[paper](https://ruixiao24.github.io/files/leakybeam-ndss25.pdf)] [[slides](https://ruixiao24.github.io/files/leakybeam-ndss-slides.pdf)]
-1. [**[MobiSys'25](https://sigmobile.org/mobisys/2025/)**] Exploiting and Securing WiFi for Pervasive Human Sensing  
+1. [**[MobiSys'25](https://sigmobile.org/mobisys/2025/)**] **Exploiting and Securing WiFi for Pervasive Human Sensing**  
    **Rui Xiao**  
    ACM International Conference on Mobile Systems, Applications, and Services (Rising Star Forum)  
    [[paper](https://ruixiao24.github.io/files/mobisys25-xiao.pdf)] [[slides](https://ruixiao24.github.io/files/mobisys25-rising-star-slides-xiao.pdf)]  
 
 ### 2024
-1. [**[MobiSys'24](https://sigmobile.org/mobisys/2024/)**] Practical Optical Camera Communication Behind Unseen and Complex Backgrounds  
+1. [**[MobiSys'24](https://sigmobile.org/mobisys/2024/)**] **Practical Optical Camera Communication Behind Unseen and Complex Backgrounds**  
     **Rui Xiao**, Leqi Zhao, Feng Qian, Lei Yang, and Jinsong Han  
     ACM International Conference on Mobile Systems, Applications, and Services  
     *Acceptance Rate: 16.3% (43 of 263)* [[paper](https://ruixiao24.github.io/files/winklink-mobisys24.pdf)] [[slides](https://ruixiao24.github.io/files/winklink-mobisys-final.pdf)] [[code](https://github.com/ruixiao24/winklink-mobisys2024)]  
-1. [**[INFOCOM'24](https://infocom2024.ieee-infocom.org/)**] One is Enough: Enabling One-shot Device-free Gesture Recognition with COTS WiFi  
+1. [**[INFOCOM'24](https://infocom2024.ieee-infocom.org/)**] **One is Enough: Enabling One-shot Device-free Gesture Recognition with COTS WiFi**  
     Leqi Zhao, **Rui Xiao (co-first)**, Jianwei Liu, and Jinsong Han  
     IEEE International Conference on Computer Communications  
     *Acceptance Rate: 19.6% (256 of 1307)* [[paper](https://ruixiao24.github.io/files/onesense-infocom24.pdf)] [[slides](https://ruixiao24.github.io/files/OneSense.pdf)]  
 
 ### 2023
-1. [**[MobiCom'23](https://sigmobile.org/mobicom/2023/)**] MagTracer: Detecting GPU Cryptojacking Attacks via Magnetic Leakage Signals  
+1. [**[MobiCom'23](https://sigmobile.org/mobicom/2023/)**] **MagTracer: Detecting GPU Cryptojacking Attacks via Magnetic Leakage Signals**  
     **Rui Xiao**, Tianyu Li, Soundarya Ramesh, Jun Han, and Jinsong Han  
     ACM International Conference on Mobile Computing and Networking  
     *Acceptance Rate: 24.4% (92 of 377)* [[paper](https://ruixiao24.github.io/files/magtracer-mobicom23.pdf)] [[slides](https://ruixiao24.github.io/files/MagTracer-mobicom23.pptx)] [[ACM News](https://cacm.acm.org/news/magnetic-sensors-pinpoint-gpu-cryptojacking-attacks)]
 
 ### 2021
-1. [**[SenSys'21](https://sensys.acm.org/2021/)**] OneFi: One-Shot Recognition for Unseen Gesture via COTS WiFi  
+1. [**[SenSys'21](https://sensys.acm.org/2021/)**] **OneFi: One-Shot Recognition for Unseen Gesture via COTS WiFi**  
     **Rui Xiao**, Jianwei Liu, Jinsong Han, and Kui Ren  
     ACM Conference on Embedded Networked Sensor Systems  
     *Acceptance Rate: 17.9% (25 of 139)* [[paper](https://ruixiao24.github.io/files/rui_onefi.pdf)] [[slides](https://ruixiao24.github.io/files/onefi-sensys21.pptx)] [[code](https://github.com/ruixiao24/onefi)]  
     🏆<span style="color:red"><strong><em>Best Paper Award Candidate</em></strong></span>  
-1. [**[USENIX Security'21](https://www.usenix.org/conference/usenixsecurity21)**] Acoustics to the Rescue: Physical Key Inference Attack Revisited  
+1. [**[USENIX Security'21](https://www.usenix.org/conference/usenixsecurity21)**] **Acoustics to the Rescue: Physical Key Inference Attack Revisited**  
     Soundarya Ramesh, **Rui Xiao**, Anindya Maiti, Jong Taek Lee, Ananda Kumar, Harini Ramprasad, Murtuza Jadliwala, and Jun Han  
     USENIX Security Symposium  
     *Acceptance Rate: 18.7% (246 of 1316)* [[paper](https://www.usenix.org/system/files/sec21fall-ramesh.pdf)] [[slides](https://www.usenix.org/system/files/sec21_slides_ramesh.pdf)]
