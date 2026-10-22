@@ -21,7 +21,8 @@ I am hiring new graduate students (M.S./Ph.D. students) and undergraduate resear
 如果你想参与世界一流的科研工作（本科/硕士/博士），欢迎加入我们！
 
 # News
-- 10/2026. Two papers leveraging the camera's rolling shutter effect are accepted at  **[NeurIPS 2026](https://neurips.cc/Conferences/2026)** and **[UbiComp 2027](https://sigchi.org/events/ubicomp-2027/)**.
+- 10/2026. Our paper on deepfake defense via optical watermarking is accepted at **[UbiComp 2027](https://sigchi.org/events/ubicomp-2027/)**.
+- 09/2026. Our paper on mobile depth estimation using rolling shutter is accepted at **[NeurIPS 2026](https://neurips.cc/Conferences/2026)**.
 - 06/2026. I was invited to serve on the TPC of **[USENIX Security 2027](https://www.usenix.org/conference/usenixsecurity27)** and **[INFOCOM 2027](https://infocom2027.ieee-infocom.org/)**.
 - 02/2026. ModelSpy is selected as **[NDSS Distinguished Paper](https://www.ndss-symposium.org/ndss2026/)** 🏆 (10 of 1481).
 - 10/2025. I was invited to serve on the TPC of **[ACM MobiSys 2026](https://www.sigmobile.org/mobisys/2026/)**.
