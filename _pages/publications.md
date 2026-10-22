@@ -5,7 +5,7 @@ author_profile: false
 classes: publications-page
 ---
 ### 2027
-1. [**[UbiComp'27/IMWUT](https://sigchi.org/events/ubicomp-2027/)**] LightMark: Towards Trustworthy Crowd-sourced Social Videos through In-Band Visible Light Watermarking <strong><em>(To Appear)</em></strong></span>   
+1. [**[UbiComp'27/IMWUT](https://sigchi.org/events/ubicomp-2027/)**] LightMark: Towards Trustworthy Crowd-sourced Social Videos through In-Band Visible Light Watermarking <span style="color:red"><strong><em>(To Appear)</em></strong></span>  
    **Rui Xiao**, Huiyu Xu, Ming Gao, and Jinsong Han  
    ACM International Joint Conference on Pervasive and Ubiquitous Computing  
    [[paper](https://ruixiao24.github.io/files/ubicomp27-lightmark.pdf)]  
