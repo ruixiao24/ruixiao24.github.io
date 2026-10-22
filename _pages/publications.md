@@ -8,7 +8,8 @@ classes: publications-page
 1. [**[UbiComp'27/IMWUT](https://sigchi.org/events/ubicomp-2027/)**] LightMark: Towards Trustworthy Crowd-sourced Social Videos through In-Band Visible Light Watermarking <span style="color:red"><strong><em>(To Appear)</em></strong></span>  
    **Rui Xiao**, Huiyu Xu, Ming Gao, and Jinsong Han  
    ACM International Joint Conference on Pervasive and Ubiquitous Computing  
-   [[paper](https://ruixiao24.github.io/files/ubicomp27-lightmark.pdf)]  
+   [[paper](https://ruixiao24.github.io/files/ubicomp27-lightmark.pdf)]
+
 ### 2026
 1. [**[NeurIPS'26](https://neurips.cc/Conferences/2026)**] Roll2Depth: Zero-Shot Metric Depth Estimation Exploiting Camera's Rolling Shutter Effect <span style="color:red"><strong><em>(To Appear)</em></strong></span>  
    **Rui Xiao**, Jinming Xu, and Jinsong Han  
