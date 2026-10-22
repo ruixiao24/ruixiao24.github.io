@@ -4,11 +4,16 @@ permalink: /publications/
 author_profile: false
 classes: publications-page
 ---
+### 2027
+1. [**[UbiComp'27/IMWUT](https://sigchi.org/events/ubicomp-2027/)**] LightMark: Towards Trustworthy Crowd-sourced Social Videos through In-Band Visible Light Watermarking <strong><em>(To Appear)</em></strong></span>   
+   **Rui Xiao**, Huiyu Xu, Ming Gao, and Jinsong Han  
+   ACM International Joint Conference on Pervasive and Ubiquitous Computing  
+   [[paper](https://ruixiao24.github.io/files/ubicomp27-lightmark.pdf)]  
 ### 2026
-1. [**[NeurIPS'26](https://neurips.cc/Conferences/2026)**] Roll2Depth: Zero-Shot Metric Depth Estimation Exploiting Camera's Rolling Shutter Effect  
+1. [**[NeurIPS'26](https://neurips.cc/Conferences/2026)**] Roll2Depth: Zero-Shot Metric Depth Estimation Exploiting Camera's Rolling Shutter Effect <span style="color:red"><strong><em>(To Appear)</em></strong></span>  
    **Rui Xiao**, Jinming Xu, and Jinsong Han  
    Conference on Neural Information Processing Systems    
-   *Acceptance Rate: 25.7% (7900 of 30709)* <span style="color:red"><strong><em>(To Appear)</em></strong></span>  
+   *Acceptance Rate: 25.7% (7900 of 30709)* [[paper](https://ruixiao24.github.io/files/neurips26-roll2depth.pdf)]  
 1. [**[NDSS'26](https://www.ndss-symposium.org/ndss2026/)**] Peering Inside the Black-Box: Long-Range and Scalable Model Architecture Snooping via GPU Electromagnetic Side-Channel    
    **Rui Xiao**, Sibo Feng, Soundarya Ramesh, Jun Han, and Jinsong Han  
    Network and Distributed System Security Symposium  
