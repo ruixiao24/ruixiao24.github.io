@@ -21,6 +21,7 @@ I am hiring new graduate students (M.S./Ph.D. students) and undergraduate resear
 如果你想参与世界一流的科研工作（本科/硕士/博士），欢迎加入我们！
 
 # News
+- 10/2026. Two papers leveraging the camera's rolling shutter effect are accepted at  **[NeurIPS 2026](https://neurips.cc/Conferences/2026)** and **[UbiComp 2027](https://sigchi.org/events/ubicomp-2027/)**.
 - 06/2026. I was invited to serve on the TPC of **[USENIX Security 2027](https://www.usenix.org/conference/usenixsecurity27)** and **[INFOCOM 2027](https://infocom2027.ieee-infocom.org/)**.
 - 02/2026. ModelSpy is selected as **[NDSS Distinguished Paper](https://www.ndss-symposium.org/ndss2026/)** 🏆 (10 of 1481).
 - 10/2025. I was invited to serve on the TPC of **[ACM MobiSys 2026](https://www.sigmobile.org/mobisys/2026/)**.
@@ -41,7 +42,7 @@ I am hiring new graduate students (M.S./Ph.D. students) and undergraduate resear
 
 # Selected Publications
 For a complete list of my publications, please see my [Full Publication List](https://ruixiao24.github.io/publications/).  
-1. [**[UbiComp'27/IMWUT](https://sigchi.org/events/ubicomp-2027/)**] LightMark: Towards Trustworthy Crowd-sourced Social Videos through In-Band Visible Light Watermarking <strong><em>(To Appear)</em></strong></span>   
+1. [**[UbiComp'27/IMWUT](https://sigchi.org/events/ubicomp-2027/)**] LightMark: Towards Trustworthy Crowd-sourced Social Videos through In-Band Visible Light Watermarking <span style="color:red"><strong><em>(To Appear)</em></strong></span>  
    **Rui Xiao**, Huiyu Xu, Ming Gao, and Jinsong Han  
    ACM International Joint Conference on Pervasive and Ubiquitous Computing  
    [[paper](https://ruixiao24.github.io/files/ubicomp27-lightmark.pdf)]  
